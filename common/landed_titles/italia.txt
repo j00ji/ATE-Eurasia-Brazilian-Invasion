@@ -1,0 +1,4011 @@
+###ÄNSI###
+
+e_sanctum_imperium = {
+	color={ 181 89 80 }
+	color2={ 4 106 56 }
+
+	capital = 1117 # Rome
+	
+	title = "IMPERATOR"
+	title_female = "IMPERATOR_FEMALE"
+	
+	short_name = yes
+		
+	k_venetia = {
+		color={ 54 167 156 }
+		color2={ 255 255 255 }
+		capital = 1153 # Venice
+		
+		catholic = 6000 #Rome Proximity
+
+		rhenish="Venetien"
+		low_saxon="Venetien"
+		ossi="Venetien"
+		upper_saxon="Venetien"
+		bavarian="Venezien"
+		swabian="Venezie"
+		austrian="Venetien"
+		luxembourger="Venetien"
+		schwyzer="Venezie"
+		neapolitan="Veneto"
+		umbrian="Veneto"
+		tuscan="Veneto"
+		venetian="Vèneto"
+		romagnol="Vènet"
+		sicilian="Vènitu"
+		sardinian="Vènetu"
+		friulian="Venit"
+		ligurian="Venneto"
+		piedmontese="Véneto"
+		lombard="Veneto"
+		parisian="Vénétie"
+		walloon="Vénétie"
+		chti="Vénécie"
+		arpitan="Vènèt"
+		occitan="Venèt"
+		provencal="Venèt"
+		palatinate="Venetien"
+		
+		d_venice = {
+			color={ 97 130 212 }
+			color2={ 255 255 255 }
+			
+			capital = 1153 #Venice
+
+			rhenish="Venedig"
+			low_saxon="Venedig"
+			ossi="Venedig"
+			upper_saxon="Venedig"
+			bavarian="Venedig"
+			swabian="Venedig"
+			austrian="Venedig"
+			luxembourger="Venedeg"
+			schwyzer="Venedig"
+			neapolitan="Venezia"
+			umbrian="Venezia"
+			tuscan="Venezia"
+			sicilian="Vinezzia"
+			venetian="Venexia"
+			romagnol="Venêzia"
+			sardinian="Venetzia"
+			friulian="Vignesie"
+			ligurian="Venessia"
+			piedmontese="Venessia"
+			lombard="Venèzia"
+			romansh="Venezia"
+			parisian="Venise"
+			chti="Venise"
+			arpitan="Vènisa"
+			occitan="Venècia"
+			provencal="Venècia"
+			palatinate="Venedig"
+			
+			c_venice = {
+				color={ 97 150 162 }
+				color2={ 255 255 255 }
+
+				rhenish="Venedig"
+				low_saxon="Venedig"
+				ossi="Venedig"
+				upper_saxon="Venedig"
+				bavarian="Venedig"
+				swabian="Venedig"
+				austrian="Venedig"
+				luxembourger="Venedeg"
+				schwyzer="Venedig"
+				neapolitan="Venezia"
+				umbrian="Venezia"
+				tuscan="Venezia"
+				sicilian="Vinezzia"
+				venetian="Venexia"
+				romagnol="Venêzia"
+				sardinian="Venetzia"
+				friulian="Vignesie"
+				ligurian="Venessia"
+				piedmontese="Venessia"
+				lombard="Venèzia"
+				romansh="Venezia"
+				parisian="Venise"
+				chti="Venise"
+				arpitan="Vènisa"
+				occitan="Venècia"
+				provencal="Venècia"
+				palatinate="Venedig"
+				
+				b_san_marco = {}
+				b_cannaregio = {
+					venetian="Canarégio"}
+				b_santa_croce = {
+					venetian="Santa Cróxe"
+					parisian="Sainte-Croix"
+					walloon="Sainte-Croix"
+					chti="Sainte-Croix"}
+				b_san_polo = {}
+				b_castello = {
+					venetian="Castèlo"}
+				b_dorsoduro = {}
+				b_lido = {}
+			}
+		}
+		d_veneto = {
+			color={ 34 217 226 }
+			capital = 1151 # Verona
+
+			rhenish="Venetien"
+			low_saxon="Venetien"
+			ossi="Venetien"
+			upper_saxon="Venetien"
+			bavarian="Venezien"
+			swabian="Venezie"
+			austrian="Venetien"
+			luxembourger="Venetien"
+			schwyzer="Venezie"
+			neapolitan="Veneto"
+			umbrian="Veneto"
+			tuscan="Veneto"
+			venetian="Vèneto"
+			romagnol="Vènet"
+			sicilian="Vènitu"
+			sardinian="Vènetu"
+			friulian="Venit"
+			ligurian="Venneto"
+			piedmontese="Véneto"
+			lombard="Veneto"
+			parisian="Vénétie"
+			walloon="Vénétie"
+			chti="Vénécie"
+			arpitan="Vènèt"
+			occitan="Venèt"
+			provencal="Venèt"
+			palatinate="Venetien"
+			
+			c_padua = {
+				color={ 14 151 171 }
+				color2={ 255 255 255 }
+
+				neapolitan="Padova"
+				umbrian="Padova"
+				tuscan="Padova"
+				sicilian="Pàduva"
+				venetian="Pàdova"
+				romagnol="Pâdva"
+				sardinian="Padova"
+				friulian="Padue"
+				ligurian="Padoa"
+				piedmontese="Pàdoa"
+				lombard="Padoa"
+				parisian="Padoue"
+				walloon="Padoue"
+				chti="Padoa"
+				arpitan="Padoua"
+				occitan="Pàdoa"
+				provencal="Pàdoa"
+				
+				b_mestre = {}
+				b_rovigo = {
+					piedmontese="Rovigh"
+					sicilian="Ruvigu"
+					lombard="Ruvigh"
+					friulian="Ruvì"
+					romagnol="Ruig"}
+				b_padua = {
+					neapolitan="Padova"
+					umbrian="Padova"
+					tuscan="Padova"
+					sicilian="Pàduva"
+					venetian="Pàdova"
+					romagnol="Pâdva"
+					sardinian="Padova"
+					friulian="Padue"
+					ligurian="Padoa"
+					piedmontese="Pàdoa"
+					lombard="Padoa"
+					parisian="Padoue"
+					walloon="Padoue"
+					chti="Padoa"
+					arpitan="Padoua"
+					occitan="Pàdoa"
+					provencal="Pàdoa"}
+				b_mira = {}
+				b_chioggia = {
+					venetian="Cióxa"
+				}
+				b_adria = {}
+				b_albignasego = {
+					venetian="Binjàxego"}
+			}
+			c_verona = {
+				color={ 123 164 227 }
+				color2={ 255 255 255 }
+
+				rhenish="Welschbern"
+				low_saxon="Welschbern"
+				ossi="Welschbern"
+				upper_saxon="Welschbern"
+				bavarian="Welschbern"
+				swabian="Welschbern"
+				austrian="Welschbern"
+				schwyzer="Welschbern"
+				sicilian="Viròna"
+				venetian="Veròna"
+				romagnol="Verånna"
+				sardinian="Berona"
+				friulian="Verone"
+				ligurian="Veronn-a"
+				piedmontese="Veron-a"
+				lombard="Verùna"
+				parisian="Vérone"
+				walloon="Vérone"
+				chti="Vérone"
+				arpitan="Vèrona"
+				palatinate="Welschbern"
+				
+				b_villafranca_di_verona = {
+					ligurian="Vilafranca de Veronn-a"
+					piedmontese="Vilafranca di Veron-a"
+					friulian="Villefrance de Verone"
+					sardinian="Villafranca de Berona"
+					romagnol="Vilafrànca ed Verånna"
+					sicilian="Villafranca di Viròna"
+					venetian="Vilafranca de Verona"
+					lombard="Villafranca di Verùna"
+				}
+				b_vicenza = {
+					lombard="Vicènsa"
+					friulian="Vicense"
+					sardinian="Bissèntzia"
+					piedmontese="Vicensa"
+					venetian="Vicensa"
+					rhenish="Wiesenthein"
+					low_saxon="Wiesenthein"
+					ossi="Wiesenthein"
+					upper_saxon="Wiesenthein"
+					bavarian="Wiesenthein"
+					swabian="Wiesenthein"
+					austrian="Wiesenthein"
+					schwyzer="Wiesenthein"
+					parisian="Vicence"
+					walloon="Vicence"
+					chti="Vicence"
+					palatinate="Wiesenthein"
+				}
+				b_verona = {
+					rhenish="Welschbern"
+					low_saxon="Welschbern"
+					ossi="Welschbern"
+					upper_saxon="Welschbern"
+					bavarian="Welschbern"
+					swabian="Welschbern"
+					austrian="Welschbern"
+					schwyzer="Welschbern"
+					sicilian="Viròna"
+					venetian="Veròna"
+					romagnol="Verånna"
+					sardinian="Berona"
+					friulian="Verone"
+					ligurian="Veronn-a"
+					piedmontese="Veron-a"
+					lombard="Verùna"
+					parisian="Vérone"
+					walloon="Vérone"
+					chti="Vérone"
+					arpitan="Vèrona"
+					palatinate="Welschbern"
+				}
+				b_bassano_del_grappa = {
+					venetian="Basan"
+					bavarian="Wassan"
+					rhenish="Bassan"
+					low_saxon="Bassan"
+					ossi="Bassan"
+					upper_saxon="Bassan"
+					swabian="Bassan"
+					austrian="Bassan"
+					schwyzer="Bassan" 
+					palatinate="Bassan"
+				}
+				b_schio = {
+					bavarian="Slait"
+				}
+				b_san_giovanni_lupatoto = {
+					venetian="San Joane"
+				}
+				b_legnago = {
+					lombard="Legnach"
+				}
+			}
+			c_treviso = {
+				color={ 80 147 186 }
+				color2={ 255 255 255 }
+
+				sicilian="Trivisu"
+				venetian="Trevixo"
+				romagnol="Trevîs"
+				sardinian="Trebisu"
+				friulian="Trevîs"
+				piedmontese="Trevis"
+				parisian="Trévise"
+				walloon="Trévise"
+				chti="Trévise"
+				arpitan="Trèviso"
+				occitan="Trevís"
+				provencal="Trevís"
+				
+				b_treviso = {
+					sicilian="Trivisu"
+					venetian="Trevixo"
+					romagnol="Trevîs"
+					sardinian="Trebisu"
+					friulian="Trevîs"
+					piedmontese="Trevis"
+					parisian="Trévise"
+					walloon="Trévise"
+					chti="Trévise"
+					arpitan="Trèviso"
+					occitan="Trevís"
+					provencal="Trevís"}
+				b_conegliano = {
+					venetian="Conejan"
+				}
+				b_castelfranco_veneto = {
+					venetian="Castèlo"
+				}
+				b_montebelluna = {
+					venetian="Montebeluna"}
+				b_vittorio_veneto = {
+					venetian="Vitòrio"}
+				b_paese = {
+					venetian="Paéxe"}
+				b_oderzo = {
+					venetian="Oderso"}
+			}
+		}
+		d_trentino = {
+			color={ 34 137 156 }
+			capital = 1155 # Trentino
+
+			rhenish="Welschtirol"
+			low_saxon="Welschtirol"
+			ossi="Welschtirol"
+			upper_saxon="Welschtirol"
+			bavarian="Welschtiroi"
+			swabian="Welschtirol"
+			austrian="Welschtirol"
+			luxembourger="Welschtiroul"
+			neapolitan="Trento"
+			umbrian="Trento"
+			tuscan="Trento"
+			sicilian="Trentu"
+			venetian="Trento"
+			romagnol="Trentén"
+			sardinian="Trentin"
+			friulian="Trento"
+			ligurian="Trento"
+			piedmontese="Trent"
+			lombard="Trent"
+			parisian="Trentin"
+			walloon="Trentin"
+			chti="Trentin"
+			occitan="Trent"
+			provencal="Trent"
+			palatinate="Welschtirol"
+				
+			c_trentino = {
+				color={ 63 117 168 }
+				color2={ 255 255 255 }
+
+				rhenish="Trient"
+				low_saxon="Trient"
+				ossi="Trient"
+				upper_saxon="Trient"
+				bavarian="Treant"
+				swabian="Trient"
+				austrian="Trient"
+				schwyzer="Trient"
+				neapolitan="Trento"
+				umbrian="Trento"
+				tuscan="Trento"
+				sicilian="Trentu"
+				venetian="Trento"
+				romagnol="Trentén"
+				sardinian="Trentin"
+				friulian="Trento"
+				ligurian="Trento"
+				piedmontese="Trent"
+				lombard="Trent"
+				parisian="Trentin"
+				walloon="Trentin"
+				chti="Trentin"
+				occitan="Trent"
+				provencal="Trent"
+				palatinate="Trient"
+				
+				b_rovereto = {
+					rhenish="Rofreit"
+					low_saxon="Rofreit"
+					ossi="Rofreit"
+					upper_saxon="Rofreit"
+					bavarian="Rovereit"
+					swabian="Rofreit"
+					austrian="Rofreit"
+					schwyzer="Rofreit"
+					romagnol="Ruveraid"
+					lombard="Roveredo"
+					venetian="Roveredo"
+					sicilian="Roveretu"
+					palatinate="Rofreit"
+				}
+				b_pergine_valsugana = {
+					venetian="Pèrxen"
+					rhenish="Fersen im Suganertal"
+					low_saxon="Fersen im Suganertal"
+					ossi="Fersen im Suganertal"
+					upper_saxon="Fersen im Suganertal"
+					bavarian="Fersen im Suganertal"
+					swabian="Fersen im Suganertal"
+					austrian="Fersen im Suganertal"
+					schwyzer="Fersen im Suganertal"
+					palatinate="Fersen im Suganertal"
+				}
+				b_trento = {
+					rhenish="Trient"
+					low_saxon="Trient"
+					ossi="Trient"
+					upper_saxon="Trient"
+					bavarian="Treant"
+					swabian="Trient"
+					austrian="Treant"
+					schwyzer="Trient"
+					friulian="Trent"
+					lombard="Trent"
+					piedmontese="Trent"
+					sardinian="Trentu"
+					sicilian="Trentu"
+					venetian="Trénto"
+					ligurian="Trènto"
+					parisian="Trente"
+					walloon="Trente"
+					chti="Trente"
+					palatinate="Trient"
+				}
+				b_riva_del_garda = {
+					lombard="Rìa del Garda"
+					rhenish="Reiff am Gartsee"
+					low_saxon="Reiff am Gartsee"
+					ossi="Reiff am Gartsee"
+					upper_saxon="Reiff am Gartsee"
+					bavarian="Reiff am Gartsee"
+					swabian="Reiff am Gartsee"
+					austrian="Reiff am Gartsee"
+					schwyzer="Reiff am Gartsee"
+					palatinate="Reiff am Gartsee"
+				}
+				b_cles = {
+					rhenish="Glöß"
+					low_saxon="Glöß"
+					ossi="Glöß"
+					upper_saxon="Glöß"
+					bavarian="Glöß"
+					swabian="Glöß"
+					austrian="Glöß"
+					schwyzer="Glöß"
+					palatinate="Glöß"
+				}
+				b_tione_di_trento = {
+					venetian="Tion de Trento"
+					lombard="Tió"
+					rhenish="Taun"
+					low_saxon="Taun"
+					ossi="Taun"
+					upper_saxon="Taun"
+					bavarian="Taun"
+					swabian="Taun"
+					austrian="Taun"
+					schwyzer="Taun"
+					palatinate="Taun"
+				}
+				b_mezzocorona = {
+					venetian="Mexacorona"
+					rhenish="Kronmetz"
+					low_saxon="Kronmetz"
+					ossi="Kronmetz"
+					upper_saxon="Kronmetz"
+					bavarian="Kronmetz"
+					swabian="Kronmetz"
+					austrian="Kronmetz"
+					schwyzer="Kronmetz"
+					palatinate="Kronmetz"
+				}
+			}
+	
+			c_belluno = {
+				color={ 122 183 223 }
+				color2={ 255 255 255 }
+
+				venetian="Belùn"
+				sicilian="Bellunu"
+				romagnol="Belón"
+				sardinian="Bellunu"
+				friulian="Belun"
+				ligurian="Bellun"
+				piedmontese="Belun"
+				parisian="Bellune"
+				walloon="Bellune"
+				chti="Bellune"
+				arpitan="Bèlon"
+				
+				b_feltre = {
+					venetian="Fèltre"
+				}
+				b_borgo_valbelluna = {}
+				b_belluno = {
+					venetian="Belùn"
+					sicilian="Bellunu"
+					romagnol="Belón"
+					sardinian="Bellunu"
+					friulian="Belun"
+					ligurian="Bellun"
+					piedmontese="Belun"
+					parisian="Bellune"
+					walloon="Bellune"
+					chti="Bellune"
+					arpitan="Bèlon"}
+				b_sedico = {
+					arpitan="Sedego"}
+				b_ponte_nelle_alpi = {
+					venetian="Pont"}
+				b_alpago = {}
+				b_santa_giustina = {
+					venetian="Santa Jostina"}
+			}
+		}
+		d_fruli = {
+			color={ 112 186 215 }
+			capital = 1154 #Udine
+			
+			rhenish="Friaul"
+			low_saxon="Friaul"
+			ossi="Friaul"
+			upper_saxon="Friaul"
+			bavarian="Friaul"
+			swabian="Friaul"
+			austrian="Friaul"
+			luxembourger="Friaul"
+			schwyzer="Friaul"
+			neapolitan="Friuli"
+			umbrian="Friuli"
+			tuscan="Friuli"
+			sicilian="Friuli"
+			venetian="Friul"
+			romagnol="Friåul"
+			sardinian="Friuli"
+			friulian="Friûl"
+			ligurian="Friùli"
+			piedmontese="Friul"
+			lombard="Friul"
+			romansh="Friuli"
+			parisian="Frioul"
+			walloon="Frioul"
+			chti="Frioul"
+			arpitan="Friôl"
+			occitan="Friol"
+			provencal="Friol"
+			palatinate="Friaul"
+			
+			c_udine = {
+				color={ 112 146 215 }
+				color2={ 255 255 255 }
+				
+				rhenish="Weiden"
+				low_saxon="Weiden"
+				ossi="Weiden"
+				upper_saxon="Weiden"
+				bavarian="Baidn"
+				swabian="Weiden"
+				austrian="Weiden"
+				schwyzer="Weiden"
+				sicilian="Ùdini"
+				venetian="Údine"
+				sardinian="Ùdine"
+				friulian="Udin"
+				ligurian="Uddine"
+				piedmontese="Ùdin"
+				palatinate="Weiden"
+				
+				b_villalta = {}
+				b_codroipo = {
+					friulian="Codroip"}
+				b_trieste = {
+					croatian="Trst"
+					slovene="Trst"
+					rhenish="Triest"
+					low_saxon="Triest"
+					ossi="Triest"
+					upper_saxon="Triest"
+					bavarian="Triest"
+					swabian="Triest"
+					austrian="Triest"
+					schwyzer="Triest"
+					hungarian="Trieszt"
+					szekely="Trieszt"
+				}
+				b_udine = {
+					rhenish="Weiden in Friaul"
+					low_saxon="Weiden in Friaul"
+					ossi="Weiden in Friaul"
+					upper_saxon="Weiden in Friaul"
+					bavarian="Baidn in Friaul"
+					swabian="Weiden in Friaul"
+					austrian="Weiden in Friaul"
+					schwyzer="Weiden in Friaul"
+					sicilian="Ùdini"
+					venetian="Údine"
+					sardinian="Ùdine"
+					friulian="Udin"
+					ligurian="Uddine"
+					piedmontese="Ùdin"
+					palatinate="Weiden in Friaul"
+				}
+				b_tavagnacco = {
+					friulian="Tavagnà"
+				}
+				b_cervignano_del_friuli = {
+					friulian="Çarvignan"
+				}
+				b_latisana = {
+					venetian="Latixana"
+					friulian="Tisane"
+				}
+				b_cividale_del_friuli = {
+					venetian="Cividal"
+					friulian="Sividât"
+					rhenish="Östrich"
+					low_saxon="Östrich"
+					ossi="Östrich"
+					upper_saxon="Östrich"
+					bavarian="Östrich"
+					swabian="Östrich"
+					austrian="Östrich"
+					schwyzer="Östrich"
+					slovene="Czedad"
+					palatinate="Östrich"
+				}
+				b_gradisca_d_isonzo = {
+					slovene="Gradišce ob Soci"
+					rhenish="Gradis am Sontig"
+					low_saxon="Gradis am Sontig"
+					ossi="Gradis am Sontig"
+					upper_saxon="Gradis am Sontig"
+					bavarian="Gradis am Sontig"
+					swabian="Gradis am Sontig"
+					austrian="Gradis am Sontig"
+					schwyzer="Gradis am Sontig"
+				}
+				b_monfalcone = {
+					slovene="Tržic"
+					rhenish="Falkenberg"
+					low_saxon="Falkenberg"
+					ossi="Falkenberg"
+					upper_saxon="Falkenberg"
+					bavarian="Falkenberg"
+					swabian="Falkenberg"
+					austrian="Falkenberg"
+					schwyzer="Falkenberg"
+					venetian="Mofalcòn"
+				}
+			}
+			c_pordenone = {
+				color={ 101 155 206 }
+				color2={ 255 255 255 }
+				
+				sicilian="Pordenoni"
+				venetian="Pordenon"
+				romagnol="Pordenon"
+				friulian="Pordenon"
+				ligurian="Pordenòn"
+				piedmontese="Pordenon"
+				lombard="Pordenon"
+				
+				b_sacile = {
+					friulian="Sacîl"
+					venetian="Sathìl"}
+				b_cordenons = {
+					friulian="Cordenòns"
+					venetian="Cordenòns"}
+				b_pordenone = {
+					sicilian="Pordenoni"
+					venetian="Pordenon"
+					romagnol="Pordenon"
+					friulian="Pordenon"
+					ligurian="Pordenòn"
+					piedmontese="Pordenon"
+					lombard="Pordenon"}
+				b_azzano_decimo = {
+					venetian="Azano Decimo"
+					friulian="Daçan di Pordenon"}
+				b_porcia = {
+					friulian="Purcîe"}
+				b_san_vito_al_tagliamento = {
+					venetian="San Vito al Tajamento"
+					friulian="San Vît dal Tiliment"}
+				b_fontanafredda = {
+					venetian="Fontanafreda"
+					friulian="Fontanefrede"}
+			}
+		}
+	}
+	k_alta_italia = {
+		color={ 244 227 160 }
+		color2={ 255 255 255 }
+		
+		capital = 1144 # Milan
+		
+		catholic = 6000 #Rome Proximity
+				
+		d_liguria = {
+			color={ 244 161 120 }
+			color2={ 255 255 255 }
+			
+			capital = 1129 # Genoa
+			
+			dignity = 10
+
+			rhenish="Ligurien"
+			low_saxon="Ligurien"
+			ossi="Ligurien"
+			upper_saxon="Ligurien"
+			bavarian="Ligurien"
+			swabian="Ligurie"
+			austrian="Ligurien"
+			luxembourger="Ligurien"
+			schwyzer="Ligurie"
+			neapolitan="Liùria"
+			umbrian="Liguria"
+			tuscan="Liguria"
+			sicilian="Liguria"
+			venetian="Liguria"
+			romagnol="Ligûria"
+			sardinian="Ligùria"
+			friulian="Ligurie"
+			ligurian="Ligûria"
+			piedmontese="Liguria"
+			lombard="Ligüria"
+			romansh="Liguria"
+			parisian="Ligurie"
+			walloon="Ligurie"
+			chti="Ligurie"
+			arpitan="Liguria"
+			occitan="Ligúria"
+			provencal="Ligúria"
+			palatinate="Ligurje"
+			
+			c_genoa = {
+				color={ 199 174 101 }
+				color2={ 255 255 255 }
+
+				rhenish="Jenua"
+				low_saxon="Genua"
+				ossi="Genua"
+				upper_saxon="Genua"
+				bavarian="Genua"
+				swabian="Genua"
+				austrian="Genua"
+				schwyzer="Genua"
+				luxembourger="Genua"
+				neapolitan="Genova"
+				umbrian="Genova"
+				tuscan="Genova"
+				sicilian="Gènuva"
+				venetian="Xènoa"
+				romagnol="Zêna"
+				sardinian="Gènova"
+				friulian="Gjenue"
+				ligurian="Zena"
+				piedmontese="Génoa"
+				lombard="Genua"
+				romansh="Genova"
+				parisian="Gênes"
+				walloon="Gênes"
+				chti="Gênes"
+				arpitan="Gêna"
+				occitan="Gènoa"
+				provencal="Gènoa"
+				palatinate="Genua"
+				
+				b_genoa = {
+					rhenish="Jenua"
+					low_saxon="Genua"
+					ossi="Genua"
+					upper_saxon="Genua"
+					bavarian="Genua"
+					swabian="Genua"
+					austrian="Genua"
+					schwyzer="Genua"
+					luxembourger="Genua"
+					neapolitan="Genova"
+					umbrian="Genova"
+					tuscan="Genova"
+					sicilian="Gènuva"
+					venetian="Xènoa"
+					romagnol="Zêna"
+					sardinian="Gènova"
+					friulian="Gjenue"
+					ligurian="Zena"
+					piedmontese="Génoa"
+					lombard="Genua"
+					romansh="Genova"
+					parisian="Gênes"
+					walloon="Gênes"
+					chti="Gênes"
+					arpitan="Gêna"
+					occitan="Gènoa"
+					provencal="Gènoa"
+					palatinate="Genua"
+				}
+				b_la_spezia = {
+					ligurian="A Spèza"
+					friulian="La Spezie"
+					sicilian="La Spezzia"
+					lombard="La Spesia"
+					venetian="La Spesia"
+					piedmontese="La Spessia"
+				}
+				b_rapallo = {}
+				b_chiavari = {
+					ligurian="Ciävai"
+					venetian="Ciàvari"}
+				b_sestri_levante = {
+					ligurian="Séstri Levànte"
+					lombard="Sester Levànt"}
+				b_lavagna = {
+					ligurian="Lavàgna"} 
+				b_serra_ricco = {
+					ligurian="A Særa"
+				}
+			}
+			c_savona = {
+				color={ 253 247 228 }
+				color2={ 255 255 255 }
+			
+				ligurian="Sann-a"
+				sicilian="Savuna"
+				romagnol="Savånna"
+				friulian="Savone"
+				piedmontese="Savon-a"
+				parisian="Savone"
+				walloon="Savone"
+				chti="Savone"
+				
+				b_sanremo = {
+					ligurian="Sanrœmu"
+					lombard="Sanremu"
+					sicilian="Sanremu"
+					occitan="Sant Rémol"
+					provencal="Sant Rémol"}
+				b_imperia = {
+					venetian="Inperia"
+					sardinian="Impèria"
+					provencal="Impèria"
+					occitan="Impèria"}
+				b_savona = {
+					ligurian="Sann-a"
+					sicilian="Savuna"
+					romagnol="Savånna"
+					friulian="Savone"
+					piedmontese="Savon-a"
+					parisian="Savone"
+					walloon="Savone"
+					chti="Savone"}
+				b_albenga = {
+					ligurian="Arbenga"
+					parisian="Albengue"
+					walloon="Albengue"
+					chti="Albengue"}
+				b_ventimiglia = {
+					ligurian="Ventemija"
+					parisian="Vintimille"
+					chti="Vintimille"
+					walloon="Vintimille"
+					occitan="Ventemilha"
+					provencal="Ventemilha"}
+				b_taggia = {}
+				b_bordighera = {
+					ligurian="A Burdighea"}
+			}
+		}
+		d_piedmont = {
+			color={ 198 168 150 }
+			color2={ 255 255 255 }
+			
+			capital = 1132 # Turin
+			
+			dignity = 10
+
+			rhenish="Piemont"
+			low_saxon="Piemont"
+			ossi="Piemont"
+			upper_saxon="Piemont"
+			bavarian="Piemont"
+			swabian="Piemont"
+			austrian="Piemont"
+			luxembourger="Piemont"
+			schwyzer="Piemont"
+			neapolitan="Piemunte"
+			umbrian="Piemonte"
+			tuscan="Piemonte"
+			sicilian="Piemunti"
+			venetian="Piemonte"
+			romagnol="Piemånt"
+			sardinian="Piemonte"
+			friulian="Piemont"
+			ligurian="Piemonte"
+			piedmontese="Piemont"
+			lombard="Piemont"
+			romansh="Piemont"
+			parisian="Piémont"
+			walloon="Piémont"
+			chti="Piémont"
+			arpitan="Piemont"
+			occitan="Piemont"
+			provencal="Piemont"
+			palatinate="Piemond"
+			
+			c_cuneo = {
+				color={ 184 181 53 }
+				color2={ 255 255 255 }
+
+				sicilian="Cuneu"
+				romagnol="Cònni"
+				piedmontese="Coni"
+				parisian="Coni"
+				walloon="Coni"
+				chti="Coni"
+				arpitan="Coni"
+				occitan="Cóuni"
+				provencal="Cóuni"
+				
+				b_alba = {
+					piedmontese="Arba"
+					walloon="Albe"
+					parisian="Albe"
+					chti="Albe"
+				}
+				b_bra = {}
+				b_cuneo = {
+					sicilian="Cuneu"
+					romagnol="Cònni"
+					piedmontese="Coni"
+					parisian="Coni"
+					walloon="Coni"
+					chti="Coni"
+					arpitan="Coni"
+					occitan="Cóuni"
+					provencal="Cóuni"
+				}
+				b_fossano = {
+					piedmontese="Fossan"
+				}
+				b_mondovi = {
+					piedmontese="Ël Mondvì"
+					parisian="Mondovi"
+					walloon="Mondovi"
+					chti="Mondovi"
+				}
+				b_savigliano = {
+					piedmontese="Savijan"
+					parisian="Savillan"
+					walloon="Savillan"
+					chti="Savillan"
+				}
+				b_saluzzo = {
+					piedmontese="Salusse"
+					walloon="Saluces"
+					parisian="Saluces"
+					chti="Saluces"
+					occitan="Saluças"
+					provencal="Saluças"
+				}
+			}
+			c_turin = {
+				color={ 171 158 51 }
+				color2={ 255 255 255 }
+
+				holy_site = chronicler
+
+				neapolitan="Turino"
+				umbrian="Torino"
+				tuscan="Torino"
+				sicilian="Turinu"
+				venetian="Turìn"
+				romagnol="Turén"
+				sardinian="Torinu"
+				ligurian="Torin"
+				lombard="Türì"
+				
+				b_moncalieri = {
+					piedmontese="Moncalé"
+					parisian="Moncalier"
+					walloon="Moncalier"
+					chti="Moncalier"
+				}
+				b_collegno = {
+					piedmontese="Colegn"
+					parisian="Colègne"
+					walloon="Colègne"
+					chti="Colègne"
+				}
+				b_turin = {
+					neapolitan="Turino"
+					umbrian="Torino"
+					tuscan="Torino"
+					sicilian="Turinu"
+					venetian="Turìn"
+					romagnol="Turén"
+					sardinian="Torinu"
+					ligurian="Torin"
+					lombard="Türì"
+				}
+				b_rivoli = {
+					piedmontese="Rìvole"
+				}
+				b_nichelino = {
+					piedmontese="Ël Niclin"}
+				b_settimo_torinese = {
+					piedmontese="Ël Seto"
+					parisian="Septime"
+					walloon="Septime"
+					chti="Septime"
+				}
+				b_grugliasco = {
+					piedmontese="Grujasch"
+					parisian="Gruillasque"
+					walloon="Gruillasque"
+					chti="Gruillasque"
+				}
+			}
+			c_aosta = {
+				color={ 183 170 106 }
+				color2={ 255 255 255 }
+
+				rhenish="Augschtal"
+				low_saxon="Augschtal"
+				ossi="Augschtal"
+				upper_saxon="Augschtal"
+				bavarian="Aostatoi"
+				swabian="Aostatal"
+				alsatian="Aostatal"
+				austrian="Aostatoi"
+				schwyzer="Augschtalann"
+				venetian="Aòsta"
+				friulian="Aoste"
+				piedmontese="Osta"
+				parisian="Aoste"
+				walloon="Aoste"
+				chti="Aoste"
+				arpitan="Aoûta"
+				palatinate="Augschtal"
+				
+				b_sarre = {
+					arpitan="Saro"
+					alsatian="Soaru"
+					schwyzer="Soaru"
+					swabian="Soaru"}
+				b_chatillon = {
+					piedmontese="Cas-cion"
+					arpitan="Tchahtéyón"
+					umbrian="Castiglion Dora"
+					tuscan="Castiglion Dora"
+					venetian="Castiglion Dora"
+					neapolitan="Castiglion Dora"
+					sicilian="Castiglion Dora"
+					romagnol="Castiglion Dora"
+					lombard="Castiglion Dora"
+					ligurian="Castiglion Dora"
+					friulian="Castiglion Dora"
+					schwyzer="Géschtullju"
+					alsatian="Géschtullju"
+					swabian="Géschtullju" 
+				}
+				b_aosta = {
+					rhenish="Augschtal"
+					low_saxon="Augschtal"
+					ossi="Augschtal"
+					upper_saxon="Augschtal"
+					bavarian="Aostatoi"
+					swabian="Aostatal"
+					alsatian="Aostatal"
+					austrian="Aostatoi"
+					schwyzer="Augschtalann"
+					venetian="Aòsta"
+					friulian="Aoste"
+					piedmontese="Osta"
+					parisian="Aoste"
+					walloon="Aoste"
+					chti="Aoste"
+					arpitan="Aoûta"
+					palatinate="Augschtal"
+				}
+				b_saint_vincent = {
+					arpitan="Sèn-Veuncein"
+					alsatian="Finze"
+					schwyzer="Finze"
+					swabian="Finze"
+					piedmontese="San Vincenzo della Fonte"
+					tuscan="San Vincenzo della Fonte"
+					venetian="San Vincenzo della Fonte"
+					neapolitan="San Vincenzo della Fonte"
+					sicilian="San Vincenzo della Fonte"
+					romagnol="San Vincenzo della Fonte"
+					lombard="San Vincenzo della Fonte"
+					ligurian="San Vincenzo della Fonte"
+					friulian="San Vincenzo della Fonte"}
+				b_quart = {
+					arpitan="Car"
+					umbrian="Quarto Pretoria"
+					piedmontese="Quarto Pretoria"
+					tuscan="Quarto Pretoria"
+					venetian="Quarto Pretoria"
+					neapolitan="Quarto Pretoria"
+					sicilian="Quarto Pretoria"
+					romagnol="Quarto Pretoria"
+					lombard="Quarto Pretoria"
+					ligurian="Quarto Pretoria"
+					friulian="Quarto Pretoria"
+					schwyzer="Koart"
+					alsatian="Koart"
+					swabian="Koart"}
+				b_pont_saint_martin = {
+					arpitan="Pón-Sén-Martìn"
+					umbrian="Ponte San Martino"
+					piedmontese="Pont San Martin"
+					tuscan="Ponte San Martino"
+					venetian="Ponte San Martino"
+					neapolitan="Ponte San Martino"
+					sicilian="Ponte San Martino"
+					romagnol="Ponte San Martino"
+					lombard="Ponte San Martino"
+					ligurian="Ponte San Martino"
+					friulian="Ponte San Martino"
+					schwyzer="Martinstäg"
+					alsatian="Martinstäg"
+					swabian="Martinstäg"}
+				b_saint_christophe = {
+					arpitan="Sèn-Crétoublo"
+					umbrian="San Cristoforo"
+					piedmontese="San Cristoforo"
+					tuscan="San Cristoforo"
+					venetian="San Cristoforo"
+					neapolitan="San Cristoforo"
+					sicilian="San Cristoforo"
+					romagnol="San Cristoforo"
+					lombard="San Cristoforo"
+					ligurian="San Cristoforo"
+					friulian="San Cristoforo"}
+			}
+			c_alessandria = {
+				color={ 170 158 56 }
+				color2={ 255 255 255 }
+
+				rhenish="Alexandria"
+				low_saxon="Alexandria"
+				ossi="Alexandria"
+				upper_saxon="Alexandria"
+				bavarian="Alexandria"
+				swabian="Alexandria"
+				austrian="Alexandria"
+				luxembourger="Alexandria"
+				schwyzer="Alexandria"
+				sicilian="Alissandria"
+				venetian="Alesandria"
+				romagnol="Alesàndria"
+				ligurian="Lisciandria"
+				piedmontese="Lissandria"
+				lombard="Lissandria"
+				parisian="Alexandrie"
+				walloon="Alexandrie"
+				chti="Alexandrie"
+				arpitan="Lèxandria"
+				occitan="Alexàndria"
+				provencal="Alexàndria"
+				palatinate="Alexandria"
+				
+				b_alessandria = {
+					rhenish="Alexandria"
+					low_saxon="Alexandria"
+					ossi="Alexandria"
+					upper_saxon="Alexandria"
+					bavarian="Alexandria"
+					swabian="Alexandria"
+					austrian="Alexandria"
+					luxembourger="Alexandria"
+					schwyzer="Alexandria"
+					sicilian="Alissandria"
+					venetian="Alesandria"
+					romagnol="Alesàndria"
+					ligurian="Lisciandria"
+					piedmontese="Lissandria"
+					lombard="Lissandria"
+					parisian="Alexandrie"
+					walloon="Alexandrie"
+					chti="Alexandrie"
+					arpitan="Lèxandria"
+					occitan="Alexàndria"
+					provencal="Alexàndria"
+				}
+				b_casale_monferrato = {
+					piedmontese="Casal Monfrà"
+					parisian="Casal"
+					walloon="Casal"
+					chti="Casal"}
+				b_asti = {
+					piedmontese="Ast"
+					romagnol="Ast"
+					lombard="Ast"
+					occitan="Ast"
+					parisian="Aste"
+					walloon="Aste"
+					chti="Aste"
+				}
+				b_novi_ligure = {
+					venetian="Novi Ligure"
+					piedmontese="Neuvi"
+					ligurian="Nêuve"
+					parisian="Neuve-en-Ligurie"
+					walloon="Neuve-en-Ligurie"
+					chti="Neuve-en-Ligurie"
+				}
+				b_tortona = {
+					piedmontese="Torton-a"
+					parisian="Tortone"
+					walloon="Tortone"
+					chti="Tortone"
+					lombard="Turtùna"
+				}
+				b_acqui_terme = {
+					piedmontese="Àich"
+				}
+				b_valenza = {
+					piedmontese="Valensa"
+					walloon="Valence-sur-Pô"
+					chti="Valence-sur-Pô"
+					lombard="Valence-sur-Pô"
+				}
+			}
+			c_novara = {
+				color={ 164 149 74 }
+				color2={ 255 255 255 }
+
+				sicilian="Nuvara"
+				romagnol="Nuvèra"
+				ligurian="Novæa"
+				piedmontese="Noara"
+				lombard="Nuara"
+				parisian="Novare"
+				walloon="Novare"
+				chti="Novare"
+				
+				b_verbania = {}
+				b_borgomanero = {
+					piedmontese="Borbané"
+					ligurian="Burbanee"
+				}
+				b_novara = {
+					sicilian="Nuvara"
+					romagnol="Nuvèra"
+					ligurian="Novæa"
+					piedmontese="Noara"
+					lombard="Nuara"
+					parisian="Novare"
+					walloon="Novare"
+					chti="Novare"
+				}
+				b_vercelli = {
+					piedmontese="Vërsèj"
+				}
+				b_gattinara = {
+					piedmontese="Gatinera"
+				}
+				b_galliate = {}
+				b_omegna = {}
+			}
+		}
+		d_lombardy = {
+			color={ 200 173 22 }
+			color2={ 255 255 255 }
+			capital = 1148 # Brescia
+
+			rhenish="Lombardei"
+			low_saxon="Lombardei"
+			ossi="Lombardei"
+			upper_saxon="Lombardei"
+			bavarian="Lombardei"
+			swabian="Lombardei"
+			austrian="Lombardei"
+			luxembourger="Lombardei"
+			schwyzer="Lombardei"
+			alsatian="Lombardei"
+			neapolitan="Lummardìa"
+			umbrian="Lombardia"
+			tuscan="Lombardia"
+			sicilian="Lummardìa"
+			venetian="Lonbardia"
+			romagnol="Lumbardéia"
+			sardinian="Lombardia"
+			friulian="Lombardie"
+			ligurian="Lombardïa"
+			piedmontese="Lombardìa"
+			lombard="Lumbardia"
+			romansh="Lumbardia"
+			parisian="Lombardie"
+			walloon="Lombardie"
+			chti="Lombardie"
+			arpitan="Lombardia"
+			occitan="Lombardia"
+			provencal="Lombardia"
+			palatinate="Lombadai"
+			
+			c_sondrio = {
+				color={ 159 153 117 }
+				color2={ 255 255 255 }
+
+				rhenish="Sünders"
+				low_saxon="Sünders"
+				ossi="Sünders"
+				upper_saxon="Sünders"
+				bavarian="Sünders"
+				swabian="Sünders"
+				austrian="Sünders"
+				schwyzer="Sünders"
+				alsatian="Sünders"
+				sicilian="Sondriu"
+				romagnol="Sòndri"
+				sardinian="Sòndriu"
+				piedmontese="Sondri"
+				lombard="Sundri"
+				romansh="Sunder"
+				palatinate="Sünders"
+				
+				b_morbegno = {
+					rhenish="Morbend"
+					low_saxon="Morbend"
+					ossi="Morbend"
+					upper_saxon="Morbend"
+					bavarian="Morbend"
+					swabian="Morbend"
+					alsatian="Morbend"
+					austrian="Morbend"
+					schwyzer="Morbend"
+					lombard="Murbegn"
+					palatinate="Morbend"
+				}
+				b_tirano = {
+					rhenish="Thiran"
+					low_saxon="Thiran"
+					ossi="Thiran"
+					upper_saxon="Thiran"
+					bavarian="Thiran"
+					swabian="Thiran"
+					alsatian="Thiran"
+					austrian="Thiran"
+					schwyzer="Thiran"
+					lombard="Tiràn"
+					romansh="Tiraun"
+					palatinate="Thiran"
+				}
+				b_sondrio = {
+					rhenish="Sünders"
+					low_saxon="Sünders"
+					ossi="Sünders"
+					upper_saxon="Sünders"
+					bavarian="Sünders"
+					swabian="Sünders"
+					austrian="Sünders"
+					schwyzer="Sünders"
+					alsatian="Sünders"
+					sicilian="Sondriu"
+					romagnol="Sòndri"
+					sardinian="Sòndriu"
+					piedmontese="Sondri"
+					lombard="Sundri"
+					romansh="Sunder"
+					palatinate="Sünders"
+				}
+				b_chiavenna = {
+					rhenish="Cläven"
+					low_saxon="Cläven"
+					ossi="Cläven"
+					upper_saxon="Cläven"
+					bavarian="Cläven"
+					swabian="Chlääfe"
+					austrian="Cläven"
+					schwyzer="Chlääfe"
+					alsatian="Chlääfe"
+					romansh="Clavenna"
+					lombard="Ciavèna"
+					parisian="Chiavenne"
+					walloon="Chiavenne"
+					chti="Chiavenne"
+					venetian="Chiavena"
+					palatinate="Cläven"
+				}
+				b_livigno = {
+					rhenish="Luwin"
+					low_saxon="Luwin"
+					ossi="Luwin"
+					upper_saxon="Luwin"
+					bavarian="Luwin"
+					swabian="Luwin"
+					austrian="Luwin"
+					schwyzer="Luwin"
+					lombard="Livígn"
+					romansh="Livign"
+					palatinate="Luwin"
+				}
+				b_cosio_valtellino = {
+					lombard="Cös"}
+				b_talamona = {
+					lombard="Talamuna"}
+			}
+			c_bergamo = {
+				color={ 212 181 117 }
+				color2={ 255 255 255 }
+
+				lombard="Bèrghem"
+				sicilian="Bèrgamu"
+				romagnol="Bêrgum"
+				friulian="Berghem"
+				ligurian="Bèrgamo"
+				piedmontese="Bérghem"
+				parisian="Bergame"
+				walloon="Bergame"
+				chti="Bergame"
+				occitan="Bergam"
+				provencal="Bergam"
+				
+				b_citta_alta = {}
+				b_ponte_san_pietro = {
+					lombard="Pùt San Piero"
+				}
+				b_bergamo = {
+					lombard="Bèrghem"
+					sicilian="Bèrgamu"
+					romagnol="Bêrgum"
+					friulian="Berghem"
+					ligurian="Bèrgamo"
+					piedmontese="Bérghem"
+					parisian="Bergame"
+					walloon="Bergame"
+					chti="Bergame"
+					occitan="Bergam"
+					provencal="Bergam"
+				}
+				b_seriate = {
+					lombard="Seriàt"
+				}
+				b_treviglio = {
+					lombard="Treì"
+				}
+				b_clusone = {
+					lombard="Clüsù"
+				}
+				b_dalmine = {
+					lombard="Dàlmen"
+				}
+			}
+			c_brescia = {
+				color={ 246 205 173 }
+				color2={ 255 255 255 }
+
+				rhenish="Welschbrixen"
+				low_saxon="Welschbrixen"
+				ossi="Welschbrixen"
+				upper_saxon="Welschbrixen"
+				bavarian="Welschbrixen"
+				swabian="Welschbrixen"
+				austrian="Welschbrixen"
+				schwyzer="Welschbrixen"
+				venetian="Bressa"
+				romagnol="Brësa"
+				friulian="Bresse"
+				ligurian="Bréscia"
+				piedmontese="Bressia"
+				lombard="Brèsa"
+				parisian="Brèche"
+				walloon="Brèche"
+				chti="Brèche"
+				occitan="Breissa"
+				provencal="Breissa"
+				palatinate="Welschbrixen"
+				
+				b_falcone_d_italia = {}
+				b_desenzano_del_garda = {
+					lombard="Dezensà"
+					venetian="Desensan del Garda"
+				}
+				b_brescia = {
+					rhenish="Welschbrixen"
+					low_saxon="Welschbrixen"
+					ossi="Welschbrixen"
+					upper_saxon="Welschbrixen"
+					bavarian="Welschbrixen"
+					swabian="Welschbrixen"
+					austrian="Welschbrixen"
+					schwyzer="Welschbrixen"
+					alsatian="Welschbrixen"
+					venetian="Bressa"
+					romagnol="Brësa"
+					friulian="Bresse"
+					ligurian="Bréscia"
+					piedmontese="Bressia"
+					lombard="Brèsa"
+					parisian="Brèche"
+					walloon="Brèche"
+					chti="Brèche"
+					occitan="Breissa"
+					provencal="Breissa"
+				}
+				b_lumezzane = {
+					lombard="Lömedhane"
+				}
+				b_palazzolo_sull_oglio = {
+					lombard="Palahöl"
+				}
+				b_rovato = {
+					lombard="Ruàt"
+				}
+				b_chiari = {
+					lombard="Ciare"
+				}
+			}
+			c_mantua = {
+				color={ 226 187 124 }
+				color2={ 255 255 255 }
+
+				neapolitan="Mantova"
+				umbrian="Mantova"
+				tuscan="Mantova"
+				sicilian="Màntuva"
+				venetian="Màntova"
+				romagnol="Mantva"
+				sardinian="Mantova"
+				friulian="Mantue"
+				ligurian="Mantova"
+				piedmontese="Màntoa"
+				romansh="Mantova"
+				parisian="Mantoue"
+				walloon="Mantoue"
+				chti="Mantoue"
+				occitan="Màntoa"
+				provencal="Màntoa"
+				
+				b_mantua = {
+					neapolitan="Mantova"
+					umbrian="Mantova"
+					tuscan="Mantova"
+					sicilian="Màntuva"
+					venetian="Màntova"
+					romagnol="Mantva"
+					sardinian="Mantova"
+					friulian="Mantue"
+					ligurian="Mantova"
+					piedmontese="Màntoa"
+					romansh="Mantova"
+					parisian="Mantoue"
+					walloon="Mantoue"
+					chti="Mantoue"
+					occitan="Màntoa"
+					provencal="Màntoa"
+				}
+				b_castiglione_delle_stiviere = {
+					lombard="Castiù"
+					romagnol="Castión"
+					venetian="Castijon dele Stiviere"
+				}
+				b_cremona = {
+					lombard="Cremùna"
+					romagnol="Carmona"
+					parisian="Crémone"
+					walloon="Crémone"
+					chti="Crémone"
+					friulian="Cremone"
+					piedmontese="Cremon-a"
+				}
+				b_crema = {
+					rhenish="Krem"
+					low_saxon="Krem"
+					ossi="Krem"
+					upper_saxon="Krem"
+					bavarian="Krem"
+					swabian="Krem"
+					austrian="Krem"
+					schwyzer="Krem"
+					alsatian="Krem"
+					lombard="Crèma"
+					romagnol="Créma"
+					palatinate="Krem"
+				}
+				b_casalmaggiore = {
+					romagnol="Casalmagiùr"
+					lombard="Casalmagiur"
+				}
+				b_castelleone = {
+					lombard="Castigliòn"
+				}
+				b_pandino = {
+					lombard="Pandì"
+				}
+			}
+		}
+		d_romagna = {
+			color={ 220 185 180 }
+			color2={ 255 255 255 }
+				
+			capital = 1139 # Ravenna
+
+			neapolitan="Rumagna"
+			sicilian="Rumagna"
+			romagnol="Rumâgna"
+			friulian="Romagne"
+			lombard="Rumagna"
+			parisian="Romagne"
+			walloon="Romagne"
+			chti="Romagne"
+			arpitan="Romagne"
+			occitan="Romanha"
+			provencal="Romanha"
+			
+			c_rimini = {
+				color={ 97 170 67 }
+				color2={ 255 255 255 }
+
+				sicilian="Rìmini"
+				venetian="Rìmano"
+				romagnol="Rèmin"
+				sardinian="Rìmini"
+				ligurian="Rimmini"
+				piedmontese="Rìmin"
+					
+				b_forli = {
+					romagnol="Furlè"
+				}
+				b_cesena = {
+					romagnol="Cisêna"
+				}
+				b_rimini = {
+					sicilian="Rìmini"
+					venetian="Rìmano"
+					romagnol="Rèmin"
+					sardinian="Rìmini"
+					ligurian="Rimmini"
+					piedmontese="Rìmin"
+				}
+				b_argenta_2 = {
+					romagnol="Arzènta"
+				}
+				b_savignano_sul_rubicone = {
+					romagnol="Savgnèn"
+				}
+				b_forlimpopoli = {
+					romagnol="Frampùl"
+				}
+				b_san_mauro_pascoli = {
+					romagnol="San Mevar"
+				}
+			}
+			c_ravenna = {
+				color={ 197 159 72 }
+				color2={ 255 255 255 }
+
+				venetian="Ravena"
+				romagnol="Ravêna"
+				piedmontese="Ravënna"
+				lombard="Ravena"
+				rhenish="Raben"
+				low_saxon="Raben"
+				ossi="Raben"
+				upper_saxon="Raben"
+				bavarian="Raben"
+				swabian="Raben"
+				austrian="Raben"
+				luxembourger="Raben"
+				schwyzer="Raben"
+				parisian="Ravenne"
+				walloon="Ravenne"
+				chti="Ravenne"
+				occitan="Ravena"
+				provencal="Ravena"
+					
+				b_faenza = {
+					romagnol="Fènza"
+				}
+				b_lugo_2 = {
+					romagnol="Lùgh"
+				}
+				b_ravenna = {
+					venetian="Ravena"
+					romagnol="Ravêna"
+					piedmontese="Ravënna"
+					lombard="Ravena"
+					rhenish="Raben"
+					low_saxon="Raben"
+					ossi="Raben"
+					upper_saxon="Raben"
+					bavarian="Raben"
+					swabian="Raben"
+					austrian="Raben"
+					luxembourger="Raben"
+					schwyzer="Raben"
+					parisian="Ravenne"
+					walloon="Ravenne"
+					chti="Ravenne"
+					occitan="Ravena"
+					provencal="Ravena"
+				}
+				b_cervia = {
+					romagnol="Zirvia"
+				}
+				b_bagnacavallo = {
+					romagnol="Bagnacavàl"
+				}
+				b_russi = {
+					romagnol="Ròss"
+				}
+				b_alfonsine = {
+					romagnol="Agl'infulsèn"
+				}
+			}
+		}
+		d_emilia = {
+			color={ 225 180 175 }
+			color2={ 255 255 255 }
+				
+			capital = 1138 # Bologna
+
+			romagnol="Emégglia"
+			sardinian="Emìlia"
+			friulian="Emilie"
+			parisian="Émilie"
+			walloon="Émilie"
+			chti="Émilie"
+			arpitan="Èmilia"
+			occitan="Emília"
+			provencal="Emília"
+				
+			c_parma = {
+				color={ 233 213 16 }
+				color2={ 255 255 255 }
+
+				romagnol="Pärma"
+				friulian="Parme"
+				parisian="Parme"
+				walloon="Parme"
+				chti="Parme"
+				
+				b_piacenza = {
+					romagnol="Piacëinsa"
+				}
+				b_fidenza = {
+					romagnol="Fidénsa"
+				}
+				b_parma = {
+					romagnol="Pärma"
+					friulian="Parme"
+					parisian="Parme"
+					walloon="Parme"
+					chti="Parme"
+				}
+				b_salsomaggiore_terme = {
+					romagnol="Sälsmagiór"
+				}
+				b_fiorenzuola_d_arda = {
+					romagnol="Fiurinsöla"
+				}
+				b_castel_san_giovanni = {
+					romagnol="Castél San Giuàn"
+				}
+				b_collecchio = {
+					romagnol="Colècc'"
+				}
+			}
+			c_modena = {
+				color={ 250 195 32 }
+				color2={ 255 255 255 }
+
+				sicilian="Mòdena"
+				romagnol="Mòdna"
+				piedmontese="Mòdena"
+				parisian="Modène"
+				walloon="Modène"
+				chti="Modène"
+					
+				b_reggio_nell_emilia = {
+					romagnol="Rèz"
+				}
+				b_carpi = {
+					romagnol="Chèrp"
+				}
+				b_modena = {
+					sicilian="Mòdena"
+					romagnol="Mòdna"
+					piedmontese="Mòdena"
+					parisian="Modène"
+					walloon="Modène"
+					chti="Modène"
+				}
+				b_sassuolo = {
+					romagnol="Sasol"
+				}
+				b_formigine = {
+					romagnol="Furmézen"
+				}
+				b_castelfranco_emilia = {
+					romagnol="Castèlfrànc"
+				}
+				b_casalgrande = {
+					romagnol="Càsalgrând"
+				}
+			}
+			c_bologna = {
+				color={ 177 174 66 }
+				color2={ 255 255 255 }
+
+				sicilian="Bulogna"
+				venetian="Bulogna"
+				romagnol="Bulåggna"
+				friulian="Bologne"
+				piedmontese="Bològna"
+				parisian="Bologne"
+				walloon="Bologne"
+				chti="Bologne"
+				occitan="Bolonha"
+				provencal="Bolonha"
+					
+				b_imola = {
+					romagnol="Jemula"
+				}
+				b_casalecchio_di_reno = {
+					romagnol="Casalàcc'"
+				}
+				b_bologna = {
+					sicilian="Bulogna"
+					venetian="Bulogna"
+					romagnol="Bulåggna"
+					friulian="Bologne"
+					piedmontese="Bològna"
+					parisian="Bologne"
+					walloon="Bologne"
+					chti="Bologne"
+					occitan="Bolonha"
+					provencal="Bolonha"
+				}
+				b_san_lazzaro_di_savena = {
+					romagnol="San Lâzer"
+				}
+				b_valsamoggia = {
+					romagnol="Valsamûz"
+				}
+				b_san_giovanni_in_persiceto = {
+					romagnol="San Zvân"
+				}
+				b_castel_san_pietro_terme = {
+					romagnol="Castèl San Pîr"
+				}
+			}
+			c_ferrara = {
+				color={ 210 198 173 }
+				color2={ 255 255 255 }
+
+				romagnol="Fràra"
+				sicilian="Firrara"
+				venetian="Ferara"
+				friulian="Ferrare"
+				ligurian="Ferræa"
+				piedmontese="Fërara"
+				lombard="Ferara"
+				parisian="Ferrare"
+				walloon="Ferrare"
+				chti="Ferrare"
+					
+				b_cento = {
+					romagnol="Zènt"
+				}
+				b_comacchio = {
+					romagnol="Cmâc'"
+				}
+				b_ferrara = {
+					romagnol="Fràra"
+					sicilian="Firrara"
+					venetian="Ferara"
+					friulian="Ferrare"
+					ligurian="Ferræa"
+					piedmontese="Fërara"
+					lombard="Ferara"
+					parisian="Ferrare"
+					walloon="Ferrare"
+					chti="Ferrare"
+				}
+				b_argenta = {
+					romagnol="Arzènta"
+				}
+				b_copparo = {
+					romagnol="Cupar"
+				}
+				b_bondeno = {
+					romagnol="Bundén"
+				}
+				b_riva_del_po = {}
+			}
+		}
+		d_milan = {
+			color={ 252 238 227 }
+			color2={ 255 255 255 }
+		
+			capital = 1144 # Milan
+
+			rhenish="Mailand"
+			low_saxon="Mailand"
+			ossi="Mailand"
+			upper_saxon="Mailand"
+			bavarian="Mailand"
+			swabian="Mailand"
+			austrian="Mailand"
+			luxembourger="Mailand"
+			schwyzer="Mailand"
+			neapolitan="Milano"
+			umbrian="Milano"
+			tuscan="Milano"
+			sicilian="Milanu"
+			romagnol="Milàn"
+			sardinian="Milanu"
+			lombard="Milà"
+			romansh="Milaun"
+			palatinate="Mailand"
+		
+			c_pavia = {
+				color={ 197 170 67 }
+				color2={ 255 255 255 }
+				
+				sicilian="Pavìa"
+				romagnol="Pavéia"
+				friulian="Pavie"
+				piedmontese="Pavìa"
+				parisian="Pavie"
+				walloon="Pavie"
+				chti="Pavie"
+				
+				b_vigevano = {
+					lombard="Avgevan"
+				}
+				b_voghera = {
+					romagnol="Vughera"
+				}
+				b_pavia = {
+					sicilian="Pavìa"
+					romagnol="Pavéia"
+					friulian="Pavie"
+					piedmontese="Pavìa"
+					parisian="Pavie"
+					walloon="Pavie"
+					chti="Pavie"}
+				b_mortara = {}
+				b_stradella = {}
+				b_gambolo = {}
+				b_garlasco = {}
+			}
+			c_milan = {
+				color={ 179 117 83 }
+				color2={ 255 255 255 }
+
+				rhenish="Mailand"
+				low_saxon="Mailand"
+				ossi="Mailand"
+				upper_saxon="Mailand"
+				bavarian="Mailand"
+				swabian="Mailand"
+				austrian="Mailand"
+				luxembourger="Mailand"
+				schwyzer="Mailand"
+				neapolitan="Milano"
+				umbrian="Milano"
+				tuscan="Milano"
+				sicilian="Milanu"
+				romagnol="Milàn"
+				sardinian="Milanu"
+				lombard="Milà"
+				romansh="Milaun"
+				palatinate="Mailand"
+				
+				b_sesto_san_giovanni = {
+					lombard="Sest San Giovann"
+				}
+				b_monza = {
+					lombard="Monscia"
+				}
+				b_milan = {
+					rhenish="Mailand"
+					low_saxon="Mailand"
+					ossi="Mailand"
+					upper_saxon="Mailand"
+					bavarian="Mailand"
+					swabian="Mailand"
+					austrian="Mailand"
+					luxembourger="Mailand"
+					schwyzer="Mailand"
+					neapolitan="Milano"
+					umbrian="Milano"
+					tuscan="Milano"
+					sicilian="Milanu"
+					romagnol="Milàn"
+					sardinian="Milanu"
+					lombard="Milà"
+					romansh="Milaun"
+					palatinate="Mailand"
+				}
+				b_legnano = {
+					lombard="Legnàn"
+				}
+				b_rho = {
+					lombard="Rò"
+				}
+				b_cologno_monzese = {
+					lombard="Cològn"
+				}
+				b_lissone = {
+					lombard="Lison"
+				}
+			}
+			c_varesotto = {
+				color={ 183 182 147 }
+				color2={ 255 255 255 }
+
+				rhenish="Väris"
+				low_saxon="Väris"
+				ossi="Väris"
+				upper_saxon="Väris"
+				bavarian="Väris"
+				swabian="Väris"
+				austrian="Väris"
+				schwyzer="Väris"
+				sicilian="Varesi"
+				venetian="Varexoto"
+				romagnol="Varesòt"
+				sardinian="Varesotu"
+				ligurian="Vareise"
+				piedmontese="Varèis"
+				lombard="Varesòtt"
+				parisian="Varèse"
+				walloon="Varèse"
+				chti="Varèse"
+				palatinate="Väris"
+				
+				b_como = {
+					romansh="Com"
+					lombard="Còmm"
+				}
+				b_varese = {
+					rhenish="Väris"
+					low_saxon="Väris"
+					ossi="Väris"
+					upper_saxon="Väris"
+					bavarian="Väris"
+					swabian="Väris"
+					austrian="Väris"
+					schwyzer="Väris"
+					parisian="Varèse"
+					walloon="Varèse"
+					chti="Varèse"
+					sicilian="Varesi"
+					venetian="Varexe"
+					romagnol="Varais"
+					ligurian="Vareise"
+					piedmontese="Varèis"
+					lombard="Vares"
+					palatinate="Väris"
+				}
+				b_busto_arsizio = {
+					lombard="Büsti Grandi"
+				}
+				b_gallarate = {
+					lombard="Galaraa"
+				}
+				b_lecco = {
+					lombard="Lècch"
+				}
+				b_cantu = {
+					lombard="Cantuu"
+				}
+				b_saronno = {
+					lombard="Saronn"
+				}
+			}
+		}
+	}
+	k_san_marino = {
+		color={ 94 182 228 }
+		color2={ 255 255 255 }
+		
+		capital = 1142 # Napoli		
+		
+		catholic = 8000 #Rome Proximity
+		
+		sicilian="San Marinu"
+		venetian="San Marin"
+		romagnol="San Marein"
+		sardinian="Santu Marinu"
+		friulian="San Marin"
+		ligurian="San Marin"
+		piedmontese="San Marin"
+		lombard="San Marin"
+		parisian="Saint-Marin"
+		walloon="Sint-Marin"
+		chti="Saint-Marin"
+		arpitan="Sant-Marin"
+		occitan="Sant Marin"
+		provencal="Sant Marin"
+		
+		d_san_marino = {
+			color={ 94 190 228 }
+			color2={ 255 255 255 }
+			
+			capital = 1142 # Rome
+
+			sicilian="San Marinu"
+			venetian="San Marin"
+			romagnol="San Marein"
+			sardinian="Santu Marinu"
+			friulian="San Marin"
+			ligurian="San Marin"
+			piedmontese="San Marin"
+			lombard="San Marin"
+			parisian="Saint-Marin"
+			walloon="Sint-Marin"
+			chti="Saint-Marin"
+			arpitan="Sant-Marin"
+			occitan="Sant Marin"
+			provencal="Sant Marin"
+			
+			c_san_marino = {
+				color={ 94 182 228 }
+				color2={ 255 255 255 }
+
+				sicilian="San Marinu"
+				venetian="San Marin"
+				romagnol="San Marein"
+				sardinian="Santu Marinu"
+				friulian="San Marin"
+				ligurian="San Marin"
+				piedmontese="San Marin"
+				lombard="San Marin"
+				parisian="Saint-Marin"
+				walloon="Sint-Marin"
+				chti="Saint-Marin"
+				arpitan="Sant-Marin"
+				occitan="Sant Marin"
+				provencal="Sant Marin"
+				
+				b_san_marino = {
+					sicilian="San Marinu"
+					venetian="San Marin"
+					romagnol="San Marein"
+					sardinian="Santu Marinu"
+					friulian="San Marin"
+					ligurian="San Marin"
+					piedmontese="San Marin"
+					lombard="San Marin"
+					parisian="Saint-Marin"
+					walloon="Sint-Marin"
+					chti="Saint-Marin"
+					arpitan="Sant-Marin"
+					occitan="Sant Marin"
+					provencal="Sant Marin"
+				}
+				b_borgo_maggiore = {}
+				b_dogana ={}
+				b_faetano = {}
+				b_acquaviva = {}
+				b_domagnano = {}
+				b_chiesanuova = {}
+			}
+		}
+	}
+	k_centro = {
+		color={ 215 141 152 }
+		color2={ 255 255 255 }
+		
+		capital = 1117 # Napoli
+		
+		catholic = 10000 #Behold the lands of the papacy
+		
+		d_lazio = {
+			color={ 254 245 160 }
+			color2={ 255 255 255 }
+			
+			rhenish="Latium"
+			low_saxon="Latium"
+			ossi="Latium"
+			upper_saxon="Latium"
+			bavarian="Latium"
+			swabian="Latium"
+			austrian="Latium"
+			luxembourger="Latium"
+			schwyzer="Latium"
+			neapolitan="Lazzio"
+			sicilian="Lazziu"
+			venetian="Lasio"
+			romagnol="Lâzi"
+			sardinian="Làtziu"
+			friulian="Lazi"
+			ligurian="Lassio"
+			piedmontese="Lassio"
+			lombard="Làsio"
+			arpitan="Lacion"
+			occitan="Laci"
+			provencal="Laci"
+			palatinate="Lazjum"
+			
+			capital = 1117 # Rome
+			
+			christian = 750 # Crusade target weight
+			
+			c_latina = {
+				color={ 174 142 103 }
+				color2={ 255 255 255 }
+				
+				friulian="Latine"
+				ligurian="Latinn-a"
+				piedmontese="Latin-a"
+				
+				b_latina = {
+					friulian="Latine"
+					ligurian="Latinn-a"
+					piedmontese="Latin-a"
+				}
+				b_frosinone = {}
+				b_terracina ={}
+				b_aprilia = {}
+				b_formia = {}
+				b_cassino = {}
+				b_alatri = {}
+			}
+			c_rome = {
+				color={ 234 155 146 }
+				color2={ 255 255 255 }
+				
+
+				rhenish="Rom"
+				low_saxon="Rom"
+				ossi="Rom"
+				upper_saxon="Rom"
+				bavarian="Rom"
+				swabian="Rom"
+				austrian="Rom"
+				schwyzer="Rom"
+				luxembourger="Roum"
+				neapolitan="Romma"
+				romagnol="Råmma"
+				sardinian="Roma"
+				tuscan="Roma"
+				umbrian="Roma"
+				sicilian="Roma"
+				venetian="Roma"
+				ligurian="Romma"
+				piedmontese="Roma"
+				lombard="Roma"
+				romansh="Roma"
+				arpitan="Roma"
+				occitan="Roma"
+				provencal="Roma"
+				palatinate="Rom"
+				parisian="Rome"
+				chti="Raume"
+				
+				holy_site = neuhumanist
+				holy_site = chronicler
+				holy_site = catholic
+				holy_site = penitant
+				holy_site = sun_king_cultist
+				holy_site = quinto
+				holy_site = nasrani
+				holy_site = ezharapallikal
+				holy_site = neoplatonist
+				holy_site = americanist
+				holy_site = apostolic
+				holy_site = celeste
+				holy_site = modernist
+				holy_site = nondescript_pagan
+				holy_site = nondescript_christian
+					
+				b_vatican = {
+					pentarchy = mariavite
+					pentarchy = penitant
+				}
+				b_guidonia = {}
+				b_fiumicino = {}
+				b_tivoli = {}
+				b_anzio = {}
+				b_velletri = {}
+				b_civitavecchia = {}
+			}
+			c_viterbo = {
+				color={ 242 202 160 }
+				color2={ 255 255 255 }
+				
+				umbrian="Veterbe"
+				sicilian="Viterbu"
+				piedmontese="Viterb"
+				parisian="Viterbe"
+				chti="Viterbe"
+				walloon="Viterbe"
+				occitan="Vitèrbe"
+				provencal="Vitèrbe"
+				
+				b_viterbo = {
+					umbrian="Veterbe"
+					sicilian="Viterbu"
+					piedmontese="Viterb"
+					parisian="Viterbe"
+					chti="Viterbe"
+					walloon="Viterbe"
+					occitan="Vitèrbe"
+					provencal="Vitèrbe"}
+				b_civita_castellana = {}
+				b_tarquinia = {}
+				b_bolsena = {}
+				b_montefiascone = {}
+				b_vetralla = {}
+				b_netralla = {}
+			}
+			c_rieti = {
+				color={ 226 154 80 }
+				color2={ 255 255 255 }
+				
+				umbrian="Riete"
+				
+				b_rieti = {
+					umbrian="Riete"}
+				b_fara_in_sabina = {}
+				b_cittaducale = {}
+				b_coggio_mirteto = {}
+				b_borgorose = {}
+				b_montopoli_di_sabina = {}
+				b_montigliano = {}
+			}
+		}
+		d_marche = {
+			color={ 230 227 180 }
+			color2={ 255 255 255 }
+			
+			capital = 1122 # Ancona
+			
+			rhenish="Marken"
+			low_saxon="Marken"
+			ossi="Marken"
+			upper_saxon="Marken"
+			bavarian="Marken"
+			swabian="Marke"
+			austrian="Marken"
+			luxembourger="Marken"
+			schwyzer="Marke"
+			sicilian="Marchi"
+			romagnol="Mèrch"
+			sardinian="Marcas"
+			friulian="Marchis"
+			parisian="Marches"
+			walloon="Marches"
+			chti="Markés"
+			arpitan="Mârques"
+			occitan="Marchas"
+			provencal="Marchas"
+			palatinate="Marken"
+			
+			c_ancona = {
+				color={ 137 129 89 }
+				color2={ 255 255 255 }
+			
+				parisian="Ancône"
+				chti="Ancône"
+				walloon="Ancône"
+				friulian="Ancone"
+				ligurian="Anconn-a"
+				piedmontese="Ancon-a"
+			
+				b_ancona = {
+					parisian="Ancône"
+					chti="Ancône"
+					walloon="Ancône"
+					friulian="Ancone"
+					ligurian="Anconn-a"
+					piedmontese="Ancon-a"}
+				b_pesaro= {}
+				b_faro_2 = {}
+				b_senigallia = {}
+				b_jesi = {}
+				b_osimo = {}
+				b_fabriano = {}
+			}
+			c_macerata = {
+				color={ 145 118 76 }
+				color2={ 255 255 255 }
+				
+				sicilian="Macirata"
+				venetian="Maçerada"
+				friulian="Macerade"
+				ligurian="Maceraâ"
+				piedmontese="Macerà"
+			
+				b_civitanova_marche = {}
+				b_recanati = {}
+					b_macerata = {
+					sicilian="Macirata"
+					venetian="Maçerada"
+					friulian="Macerade"
+					ligurian="Maceraâ"
+					piedmontese="Macerà"}
+				b_fermo = {}
+				b_san_benedetto_del_tronto = {}
+				b_tolentino = {}
+				b_potenza_picena = {}
+			}
+			c_umbria = {
+				color={ 144 119 51 }
+				color2={ 255 255 255 }
+				
+				sicilian="Ùmbria"
+				venetian="Onbria"
+				romagnol="Ónbria"
+				sardinian="Ùmbria"
+				friulian="Umbrie"
+				swabian="Umbrie"
+				schwyzer="Umbrie"
+				alsatian="Umbrie"
+				rhenish="Umbrien"
+				low_saxon="Umbrien"
+				ossi="Umbrien"
+				upper_saxon="Umbrien"
+				bavarian="Umbrien"
+				austrian="Umbrien"
+				luxembourger="Umbrien"
+				parisian="Ombrie"
+				chti="Ombrie"
+				walloon="Ombrie"
+				occitan="Ómbria"
+				provencal="Ómbria"
+				arpitan="Ombria"
+				palatinate="Umbrie"
+			
+				b_perugia = {}
+				b_terni = {}
+				b_foligno = {}
+				b_assisi = {}
+				b_citta_di_castello = {}
+				b_spoleto = {}
+				b_gubbio = {}
+			}
+		}
+		d_tuscany = {
+			color={ 222 186 25 }
+			color2={ 255 255 255 }
+			
+			capital = 1127 # Florence
+
+			rhenish="Toskana"
+			low_saxon="Toskana"
+			ossi="Toskana"
+			upper_saxon="Toskana"
+			bavarian="Tuskien"
+			swabian="Toskana"
+			austrian="Toskana"
+			luxembourger="Toskana"
+			schwyzer="Toskana"
+			neapolitan="Toscana"
+			umbrian="Toscana"
+			tuscan="Toscana"
+			sicilian="Tuscana"
+			venetian="Toscana"
+			romagnol="Tuschèna"
+			sardinian="Toscana"
+			friulian="Toscane"
+			ligurian="Toscann-a"
+			piedmontese="Toscan-a"
+			lombard="Toscana"
+			romansh="Toscana"
+			parisian="Toscane"
+			walloon="Toscane"
+			chti="Toscane"
+			arpitan="Toscâna"
+			occitan="Toscana"
+			provencal="Toscana"
+			palatinate="Toskana"
+			
+			c_grosseto = {
+				color={ 164 153 18 }
+				color2={ 255 255 255 }
+				
+				sicilian="Grussetu"
+				venetian="Groseto"
+				piedmontese="Grosset"
+			
+				b_magliano_in_toscana = {}
+				b_follonica = {}
+				b_grosseto = {
+					sicilian="Grussetu"
+					venetian="Groseto"
+					piedmontese="Grosset"}
+				b_orbetello = {}
+				b_monte_argentario = {}
+				b_roccastrada = {}
+				b_gavorrano = {}
+			}
+			c_siena = {
+				color={ 176 144 111 }
+				color2={ 255 255 255 }
+				
+				parisian="Sienne"
+				walloon="Sienne"
+				chti="Sienne"
+				romagnol="Séna"
+				friulian="Siene"
+				piedmontese="Sien-a"
+			
+				b_poggibonsi = {}
+				b_colle_di_val_d_elsa = {}
+				b_siena = {
+					parisian="Sienne"
+					walloon="Sienne"
+					chti="Sienne"}
+				b_san_gimignano = {}
+				b_sinalunga = {}
+				b_montepulciano = {}
+				b_chiusi = {}
+			}
+			c_arezzo = {
+				color={ 249 170 111 }
+				color2={ 255 255 255 }
+				
+				sicilian="Arezzu"
+				venetian="Arezo"
+				romagnol="Aràzz"
+				friulian="Areç"
+				ligurian="Aresso"
+				piedmontese="Aress"
+			
+				b_montevarchi = {}
+				b_cortona = {}
+				b_arezzo = {
+					sicilian="Arezzu"
+					venetian="Arezo"
+					romagnol="Aràzz"
+					friulian="Areç"
+					ligurian="Aresso"
+					piedmontese="Aress"}
+				b_san_zeno = {}
+				b_san_giovanni_valdarno = {}
+				b_sansepolcro = {}
+				b_castiglion_fiorentino = {}
+			}
+			c_pisa = {
+				color={ 235 173 142 }
+				color2={ 255 255 255 }
+			
+				venetian="Pixa"
+				romagnol="Pisa"
+				friulian="Pise"
+				parisian="Pise"
+				walloon="Pise"
+				chti="Pise"
+			
+				b_san_giuliano_terme = {}
+				b_cascina = {}
+				b_pisa = {
+					venetian="Pixa"
+					romagnol="Pisa"
+					friulian="Pise"
+					parisian="Pise"
+					walloon="Pise"
+					chti="Pise"}
+				b_pontedera = {}
+				b_san_miniato = {}
+				b_ponsacco = {}
+				b_santa_croce_sull_arno = {}
+			}
+			c_florence = {
+				color={ 116 100 60 }
+				color2={ 255 255 255 }
+
+				rhenish="Florenz"
+				low_saxon="Florenz"
+				ossi="Florenz"
+				upper_saxon="Florenz"
+				bavarian="Florenz"
+				swabian="Florenz"
+				austrian="Florenz"
+				schwyzer="Florenz"
+				neapolitan="Sciorenza"
+				sicilian="Firenzi"
+				venetian="Firense"
+				romagnol="Fiuränza"
+				sardinian="Frorentzia"
+				friulian="Florence"
+				ligurian="Firense"
+				piedmontese="Firense"
+				lombard="Firenz"
+				romansh="Firenze"
+				tuscan="Fiorenza"
+				umbrian="Firenze"
+				parisian="Florence"
+				walloon="Florence"
+				chti="Florinche"
+				arpitan="Fllorence"
+				occitan="Florença"
+				provencal="Florença"
+				palatinate="Florenz"
+				holy_site = neoplatonist
+			
+				b_scandicci = {}
+				b_prato = {}
+				b_florence = {
+					rhenish="Florenz"
+					low_saxon="Florenz"
+					ossi="Florenz"
+					upper_saxon="Florenz"
+					bavarian="Florenz"
+					swabian="Florenz"
+					austrian="Florenz"
+					schwyzer="Florenz"
+					neapolitan="Sciorenza"
+					sicilian="Firenzi"
+					venetian="Firense"
+					romagnol="Fiuränza"
+					sardinian="Frorentzia"
+					friulian="Florence"
+					ligurian="Firense"
+					piedmontese="Firense"
+					lombard="Firenz"
+					romansh="Firenze"
+					tuscan="Fiorenza"
+					umbrian="Firenze"
+					parisian="Florence"
+					walloon="Florence"
+					chti="Florinche"
+					arpitan="Fllorence"
+					occitan="Florença"
+					provencal="Florença"
+					palatinate="Florenz"
+				}
+				b_pistoia = {}
+				b_sesto_fiorentino = {}
+				b_empoli = {}
+				b_campi_bisenzio = {}
+			}
+			c_lucca = {
+				color={ 183 108 87 }
+				color2={ 255 255 255 }
+				
+				venetian="Luca"
+				romagnol="Locca"
+				piedmontese="Luca"
+				occitan="Luca"
+				provencal="Luca"
+				parisian="Lucques"
+				walloon="Lucques"
+				chti="Lucques"
+			
+				b_viareggio = {}
+				b_massa = {}
+				b_lucca = {
+					venetian="Luca"
+					romagnol="Locca"
+					piedmontese="Luca"
+					occitan="Luca"
+					provencal="Luca"
+					parisian="Lucques"
+					walloon="Lucques"
+					chti="Lucques"}
+				b_carrara = {}
+				b_camaiore = {}
+				b_pietrasanta = {}
+				b_massarosa = {}
+			}
+		}
+	}
+	k_naples = {
+		color={ 102 195 235 }
+		
+		capital = 1111 # Napoli
+		
+		catholic = 7000 #Rome Proximity
+
+		rhenish="Neapel"
+		low_saxon="Neapel"
+		ossi="Neapel"
+		upper_saxon="Neapel"
+		bavarian="Neapel"
+		swabian="Neapel"
+		austrian="Neapel"
+		luxembourger="Neapel"
+		schwyzer="Neapel"
+		parisian="Naples"
+		walloon="Naples"
+		chti="Napoule"
+		arpitan="Naple"
+		occitan="Nàpols"
+		provencal="Nàpols"
+		palatinate="Neapel"
+		
+		d_calabria = {
+			color={ 2 78 163 }
+			color2={ 255 255 255 }
+
+			capital = 1104 # Calabria
+		
+			rhenish="Kalabrien"
+			low_saxon="Kalabrien"
+			ossi="Kalabrien"
+			upper_saxon="Kalabrien"
+			bavarian="Kalabrien"
+			swabian="Kalabrien"
+			austrian="Kalabrien"
+			luxembourger="Kalabrien"
+			schwyzer="Kalabrie"
+			neapolitan="Calàbbria"
+			sicilian="Calàvria"
+			friulian="Calabrie"
+			ligurian="Calabbria"
+			parisian="Calabre"
+			walloon="Calabre"
+			chti="Calabre"
+			arpitan="Calâbra"
+			occitan="Calàbria"
+			provencal="Calàbria"
+			palatinate="Kalabrie"
+			
+			c_calabria = {
+				color={ 10 147 168 }
+				color2={ 255 255 255 }
+
+				rhenish="Kalabrien"
+				low_saxon="Kalabrien"
+				ossi="Kalabrien"
+				upper_saxon="Kalabrien"
+				bavarian="Kalabrien"
+				swabian="Kalabrien"
+				austrian="Kalabrien"
+				luxembourger="Kalabrien"
+				schwyzer="Kalabrie"
+				neapolitan="Calàbbria"
+				sicilian="Calàvria"
+				friulian="Calabrie"
+				ligurian="Calabbria"
+				parisian="Calabre"
+				walloon="Calabre"
+				chti="Calabre"
+				arpitan="Calâbra"
+				occitan="Calàbria"
+				provencal="Calàbria"
+				palatinate="Kalabrie"
+				
+				b_reggio_calabria = {
+					sicilian="Rìggiu"
+				}
+				b_catanzaro = {
+					sicilian="Catanzaru"
+				}
+				b_vibo_valentia = {
+					sicilian="Muntalaùni"
+				}
+				b_lamezia_terme = {}
+				b_palmi = {
+					sicilian="Pàrmi"
+				}
+				b_amato = {
+					sicilian="Amàtu"
+				}
+			}
+			c_cosenza = {
+				color={ 10 147 168 }
+				color2={ 255 255 255 }
+
+				neapolitan="Cusenza"
+				sicilian="Cusenze"
+				venetian="Coxensa"
+				friulian="Cosenze"
+				piedmontese="Cosensa"
+				parisian="Cosence"
+				walloon="Cosence"
+				chti="Cosence"
+				occitan="Cosença"
+				provencal="Cosença"
+				
+				b_corigliano_rossano = {}
+				b_cosenza = {
+					neapolitan="Cusenza"
+					sicilian="Cusenze"
+					venetian="Coxensa"
+					friulian="Cosenze"
+					piedmontese="Cosensa"
+					parisian="Cosence"
+					walloon="Cosence"
+					chti="Cosence"
+					occitan="Cosença"
+					provencal="Cosença"
+				}
+				b_crotone = {
+					sicilian="Cutrone"
+				}
+				b_castrovillari = {
+					sicilian="Castruvìddari"
+				}
+				b_montalto_uffugo = {
+					sicilian="Muntàvutu"
+				}
+				b_san_giovanni_in_fiore = {
+					sicilian="Sangiuvanni"
+				}
+				b_isola_di_capo_rizzuto = {}
+			}
+		}
+		d_apulia = {
+			color={ 67 172 163 }
+			color2={ 255 255 255 }
+
+			capital = 1108 # Bari
+			
+			rhenish="Apulien"
+			low_saxon="Apulien"
+			ossi="Apulien"
+			upper_saxon="Apulien"
+			bavarian="Apulien"
+			swabian="Apulien"
+			austrian="Apulien"
+			luxembourger="Apulien"
+			schwyzer="Apulien"
+			neapolitan="Púgghie"
+			umbrian="Puglia"
+			tuscan="Puglia"
+			sicilian="Pùia"
+			venetian="Puia"
+			romagnol="Pógglia"
+			sardinian="Pùglia"
+			friulian="Pulie"
+			ligurian="Puggia"
+			piedmontese="Pulia"
+			lombard="Püja"
+			romansh="Puglia"
+			parisian="Pouilles"
+			walloon="Pouilles"
+			chti="Poulles"
+			arpitan="Poulye"
+			occitan="Polha"
+			provencal="Polha"
+			palatinate="Apulje"
+				
+			c_foggia = {
+				color={ 53 116 163 }
+				color2={ 255 255 255 }
+
+				neapolitan="Fògge"
+				venetian="Foxa"
+				romagnol="Fògia"
+				piedmontese="Fògia"
+				arpitan="Foge"
+				
+				b_foggia = {
+					neapolitan="Fògge"
+					venetian="Foxa"
+					romagnol="Fògia"
+					piedmontese="Fògia"
+					arpitan="Foge"
+				}
+				b_san_giovanni_rotondo = {}
+				b_san_severo = {}
+				b_manfredonia = {}
+				b_vieste = {
+					neapolitan="Vìst"
+				}
+				b_lucera = {
+					neapolitan="Lucére"
+				}
+				b_cerignola = {
+					neapolitan="Ceregnòule"
+				}
+			}
+			c_bari = { #1108
+				color={ 53 116 163 }
+				color2={ 255 255 255 }
+
+				neapolitan="Bàrë"
+				
+				b_bari = {
+					neapolitan="Bàrë"
+				}
+				b_trani = {}
+				b_monopoli = {
+					neapolitan="Menòpele"
+				}
+				b_andria = {}
+				b_bisceglie = {
+					neapolitan="Vescégghie"
+				}
+				b_altamura = {
+					neapolitan="Ialtamùre"
+				}
+				b_gravina_in_puglia = {
+					neapolitan="Gravéine"
+				}
+			}
+			c_salento = {
+				color={ 49 150 195 }
+				color2={ 255 255 255 }
+
+				rhenish="Salent"
+				low_saxon="Salent"
+				ossi="Salent"
+				upper_saxon="Salent"
+				bavarian="Salent"
+				swabian="Salent"
+				austrian="Salent"
+				schwyzer="Salent"
+				sicilian="Salentu"
+				palatinate="Salent"
+				
+				b_taranto = {
+					rhenish="Tarent"
+					low_saxon="Tarent"
+					ossi="Tarent"
+					upper_saxon="Tarent"
+					bavarian="Tarent"
+					swabian="Tarent"
+					austrian="Tarent"
+					schwyzer="Tarent"
+					neapolitan="Tarde"
+					palatinate="Tarent"
+				}
+				b_lecce = {
+					sicilian="Lècce"
+				}
+				b_brindisi = {
+					sicilian="Brìnnisi"
+				}
+				b_otranto = {
+					sicilian="Utràntu"
+				}
+				b_gallipoli = {
+					sicilian="Caddìpuli"
+				}
+				b_nardo = {
+					neapolitan="Nardó"
+				}
+				b_ostuni = {
+					neapolitan="Ostune"
+					sicilian="Stune"
+				}
+			}
+			c_basilicata = {
+				color={ 47 121 181 }
+				color2={ 255 255 255 }
+				
+				rhenish="Basilikata"
+				low_saxon="Basilikata"
+				ossi="Basilikata"
+				upper_saxon="Basilikata"
+				bavarian="Basilikata"
+				swabian="Basilikata"
+				austrian="Basilikata"
+				luxembourger="Basilikata"
+				schwyzer="Basilikata"	
+				neapolitan="Baselecata"
+				venetian="Baxilicata"
+				romagnol="Lucàgna"
+				friulian="Lucanie"
+				piedmontese="Basilicà"
+				lombard="Basilicada"
+				parisian="Basilicate"
+				walloon="Basilicate"
+				chti="Basilicate"
+				arpitan="Baselicâ"
+				palatinate="Basilikata"
+			
+				b_potenza = {
+					neapolitan="Putenza"
+				}
+				b_matera = {}
+				b_policoro = {
+					neapolitan="Pulecòre"
+				}
+				b_pisticci = {
+					neapolitan="Pestìzze"
+				}
+				b_bernalda = {
+					neapolitan="Bernàlle"
+				}
+				b_montescaglioso = {
+					neapolitan="Mònde"
+				}
+				b_anzi = {}
+			}
+		}
+		d_campania = {
+			color={ 140 209 200 }
+			color2={ 255 255 255 }
+			
+			capital = 1111 # Naples
+			
+			rhenish="Kampanien"
+			low_saxon="Kampanien"
+			ossi="Kampanien"
+			upper_saxon="Kampanien"
+			bavarian="Kampanien"
+			swabian="Kampanie"
+			austrian="Kampanien"
+			luxembourger="Kampanien"
+			schwyzer="Kampanie"
+			venetian="Canpania"
+			romagnol="Canpâgna"
+			friulian="Campanie"
+			ligurian="Campannia"
+			parisian="Campanie"
+			walloon="Campanie"
+			chti="Campanie"
+			occitan="Campània"
+			provencal="Campània"
+			palatinate="Kampanje"
+			
+			c_naples = {
+				color={ 53 116 163 }
+				color2={ 255 255 255 }
+
+				rhenish="Neapel"
+				low_saxon="Neapel"
+				ossi="Neapel"
+				upper_saxon="Neapel"
+				bavarian="Neapel"
+				swabian="Neapel"
+				austrian="Neapel"
+				luxembourger="Neapel"
+				schwyzer="Neapel"
+				neapolitan="Napule"
+				umbrian="Napoli"
+				tuscan="Napoli"
+				sicilian="Nàpuli"
+				venetian="Nàpuli"
+				romagnol="Nâpol"
+				sardinian="Nàpoli"
+				friulian="Napoli"
+				romansh="Napoli"
+				ligurian="Napoli"
+				piedmontese="Nàpoli"
+				lombard="Napul"
+				parisian="Naples"
+				walloon="Naples"
+				chti="Napoule"
+				arpitan="Naple"
+				occitan="Nàpols"
+				provencal="Nàpols"
+				palatinate="Neapel"
+				
+				b_caserta = {}
+				b_nola = {}
+				b_naples = {
+					rhenish="Neapel"
+					low_saxon="Neapel"
+					ossi="Neapel"
+					upper_saxon="Neapel"
+					bavarian="Neapel"
+					swabian="Neapel"
+					austrian="Neapel"
+					luxembourger="Neapel"
+					schwyzer="Neapel"
+					neapolitan="Napule"
+					umbrian="Napoli"
+					tuscan="Napoli"
+					sicilian="Nàpuli"
+					venetian="Nàpuli"
+					romagnol="Nâpol"
+					sardinian="Nàpoli"
+					friulian="Napoli"
+					romansh="Napoli"
+					ligurian="Napoli"
+					piedmontese="Nàpoli"
+					lombard="Napul"
+					parisian="Naples"
+					walloon="Naples"
+					chti="Napoule"
+					arpitan="Naple"
+					occitan="Nàpols"
+					provencal="Nàpols"
+					palatinate="Neapel"
+				}
+				b_giugliano_in_campania = {}
+				b_torre_del_greco = {}
+				b_pozzuoli = {}
+				b_casoria = {}
+			}
+			c_benevento = {
+				color={ 32 201 243 }
+				color2={ 255 255 255 }
+	
+				neapolitan="Beneviento"
+				sicilian="Beneventu"
+				piedmontese="Benevènt"
+				parisian="Bénévent"
+				walloon="Bénévent"
+				chti="Bénévent"
+				
+				b_benevento = {
+					neapolitan="Beneviento"
+					sicilian="Beneventu"
+					piedmontese="Benevènt"
+					parisian="Bénévent"
+					walloon="Bénévent"
+					chti="Bénévent"
+				}
+				b_ariano_irpino = {}
+				b_avellino = {}
+				b_montesarchio = {
+					neapolitan="Muntesarchio"
+				}
+				b_sant_agata_de_goti = {}
+				b_san_marco_dei_cavoti = {}
+				b_apice = {}
+			}
+			c_salerno = {
+				color={ 27 138 245 }
+				color2={ 255 255 255 }
+
+				parisian="Salerne"
+				walloon="Salerne"
+				chti="Salerne"
+				occitan="Salèrn"
+				provencal="Salèrn"
+				neapolitan="Salierne"
+				sicilian="Salernu"
+				piedmontese="Salern"
+				
+				b_salerno = {
+					parisian="Salerne"
+					walloon="Salerne"
+					chti="Salerne"
+					occitan="Salèrn"
+					provencal="Salèrn"
+					neapolitan="Salierne"
+					sicilian="Salernu"
+					piedmontese="Salern"
+				}
+				b_cava_de_tirreni = {
+					neapolitan="'A Cava"
+				}
+				b_battipaglia = {}
+				b_nocera_inferiore = {
+					neapolitan="Nucere"
+				}
+				b_amalfi = {}
+				b_vietri_sul_mare = {
+					neapolitan="Vietre"
+				}
+				b_cetara = {}
+			}
+		}
+		d_abruzzo = {
+			color={ 110 168 190 }
+			color2={ 255 255 255 }
+
+			capital = 1115 # L'Aquila
+
+			rhenish="Abruzzen"
+			low_saxon="Abruzzen"
+			ossi="Abruzzen"
+			upper_saxon="Abruzzen"
+			bavarian="Abruzzen"
+			swabian="Abruzze"
+			austrian="Abruzzen"
+			luxembourger="Abruzzen"
+			schwyzer="Abruzze"
+			sicilian="Abbruzzu"
+			venetian="Abruso"
+			romagnol="Abrózz"
+			sardinian="Abrutzu"
+			friulian="Abruç"
+			ligurian="Abrusso"
+			piedmontese="Abruss"
+			parisian="Abruzzes"
+			walloon="Abruzzes"
+			chti="Abruzzes"
+			arpitan="Abruço"
+			occitan="Abruço"
+			provencal="Abruç"
+			palatinate="Abruzzen"
+			
+			c_molise = {
+				color={ 51 124 241 }
+				color2={ 255 255 255 }
+
+				neapolitan="Mulise"
+				sicilian="Mulisi"
+				venetian="Molixe"
+				romagnol="Mulìs"
+				friulian="Molîs"
+				ligurian="Molïse"
+				arpitan="Molis"
+				
+				b_campobasso = {
+					neapolitan="Cambuàsce"
+				}
+				b_termoli = {}
+				b_isernia = {}
+				b_campomarino = {}
+				b_larino = {
+					neapolitan="Larìne"
+				}
+				b_guglionesi = {}
+				b_riccia = {}
+			}
+			c_pescara = {
+				color={ 73 137 164 }
+				color2={ 255 255 255 }
+				
+				neapolitan="Piscàrë"
+				sicilian="Piscara"
+				friulian="Pescjare"
+				ligurian="Pescâa"
+				
+				b_pescara = {
+					neapolitan="Piscàrë"
+					sicilian="Piscara"
+					friulian="Pescjare"
+					ligurian="Pescâa"}
+				b_chieti = {}
+				b_teramo = {
+					neapolitan="Tèreme"
+				}
+				b_isola_del_gran_sasso_d_italia = {}
+				b_lanciano = {}
+				b_vasto = {}
+				b_ortona = {}
+			}
+			c_l_aquila = {
+				color={ 73 137 64 }
+				color2={ 255 255 255 }
+				
+				neapolitan="Ll'Àquila"
+				friulian="L'Acuile"
+				ligurian="L'Àgogia"
+				piedmontese="L'Àquila"
+				
+				b_l_aquila = {
+					neapolitan="Ll'Àquila"
+					friulian="L'Acuile"
+					ligurian="L'Àgogia"
+					piedmontese="L'Àquila"}
+				b_avezzano = {}
+				b_sulmona = {}
+				b_celano = {}
+				b_pratola_peligna = {}
+				b_tagliacozzo = {}
+				b_trasacco = {}
+			}
+		}
+	}
+	k_sicily = {
+		color={ 230 210 50 }
+		color2={ 255 255 255 }
+		
+		capital = 590 #	Palermo
+		
+		catholic = 5000 #Rome Proximity
+		
+		rhenish="Sizilien"
+		low_saxon="Sizilien"
+		ossi="Sizilien"
+		upper_saxon="Sizilien"
+		bavarian="Sizilien"
+		swabian="Sizilie"
+		austrian="Sizilien"
+		luxembourger="Sizilien"
+		schwyzer="Sizilie"
+		neapolitan="Sicilia"
+		umbrian="Sicilia"
+		tuscan="Sicilia"
+		sicilian="Sicilia"
+		venetian="Sicilia"
+		romagnol="Sizégglia"
+		sardinian="Sitzìlia"
+		friulian="Sicilie"
+		romansh="Sicilia"
+		ligurian="Siçillia"
+		piedmontese="Sicilia"
+		lombard="Sicilia"
+		parisian="Sicile"
+		walloon="Sicile"
+		chti="Sicile"
+		arpitan="Secila"
+		occitan="Sicília"
+		provencal="Sicília"
+		palatinate="Sizilje"
+		
+		d_palermo = {
+			color={ 219 183 16 }
+			color2={ 255 255 255 }
+
+			capital = 590 #	Palermo
+		
+			sicilian="Palermu"
+			romagnol="Palèrum"
+			piedmontese="Palerm"
+			parisian="Palerme"
+			walloon="Palerme"
+			chti="Palerme"
+			occitan="Palèrme"
+			provencal="Palèrme"
+			arpitan="Palèrmo"
+			
+			c_palermo = {
+				color={ 219 183 16 }
+				color2={ 255 255 255 }
+				
+				holy_site = thelema
+
+				sicilian="Palermu"
+				romagnol="Palèrum"
+				piedmontese="Palerm"
+				parisian="Palerme"
+				walloon="Palerme"
+				chti="Palerme"
+				occitan="Palèrme"
+				provencal="Palèrme"
+				arpitan="Palèrmo"
+				
+				b_palermo = {
+					sicilian="Palermu"
+					romagnol="Palèrum"
+					piedmontese="Palerm"
+					parisian="Palerme"
+					walloon="Palerme"
+					chti="Palerme"
+					occitan="Palèrme"
+					provencal="Palèrme"
+					arpitan="Palèrmo"
+				}
+				b_bagheria = {
+					sicilian="Baarìa"
+				}
+				b_monreale = {
+					sicilian="Murriali"
+				}
+				b_cefalu = {
+					sicilian="Cifalù"}
+				b_partinico = {
+					sicilian="Partinicu"
+				}
+				b_misilmeri = {
+					sicilian="Musulumeli"
+				}
+				b_termini_imerese = {
+					sicilian="Tèrmini"
+				}
+			}
+			c_trapani = {
+				color={ 213 202 16 }
+				color2={ 255 255 255 }
+
+				sicilian="Tràpani"
+				romagnol="Tràpani"
+				ligurian="Tràpani"
+				piedmontese="Tràpani"
+				parisian="Drépane"
+				walloon="Drépane"
+				chti="Drépane"
+				arpitan="Drèpano"
+				occitan="Drapena"
+				provencal="Drapena"
+				
+				b_trapani = {
+					sicilian="Tràpani"
+					romagnol="Tràpani"
+					ligurian="Tràpani"
+					piedmontese="Tràpani"
+					parisian="Drépane"
+					walloon="Drépane"
+					chti="Drépane"
+					arpitan="Drèpano"
+					occitan="Drapena"
+					provencal="Drapena"
+				}
+				b_marsala = {
+					sicilian="Maissala"
+				}
+				b_mazara_del_vallo = {
+					sicilian="Mazzara"
+				}
+				b_alcamo = {
+					sicilian="Àrcamu"
+				}
+				b_castelvetrano = {
+					sicilian="Castidduvitranu"
+				}
+				b_erice = {
+					sicilian="Èrici"
+				}
+				b_castellammare_del_golfo = {
+					sicilian="Casteddammari"
+				}
+			}
+			c_agrigento = {
+				color={ 213 202 56 }
+				color2={ 255 255 255 }
+
+				rhenish="Agrigent"
+				low_saxon="Agrigent"
+				ossi="Agrigent"
+				upper_saxon="Agrigent"
+				bavarian="Agrigent"
+				swabian="Agrigent"
+				austrian="Agrigent"
+				schwyzer="Agrigent"
+				luxembourger="Agrigent"
+				sicilian="Girgenti"
+				venetian="Agrixento"
+				friulian="Agrigjent"
+				piedmontese="Agrigent"
+				parisian="Agrigente"
+				walloon="Agrigente"
+				chti="Agrigente"
+				arpitan="Agrigent"
+				palatinate="Agrigent"
+				
+				b_agrigento = {
+					rhenish="Agrigent"
+					low_saxon="Agrigent"
+					ossi="Agrigent"
+					upper_saxon="Agrigent"
+					bavarian="Agrigent"
+					swabian="Agrigent"
+					austrian="Agrigent"
+					schwyzer="Agrigent"
+					luxembourger="Agrigent"
+					sicilian="Girgenti"
+					venetian="Agrixento"
+					friulian="Agrigjent"
+					piedmontese="Agrigent"
+					parisian="Agrigente"
+					walloon="Agrigente"
+					chti="Agrigente"
+					arpitan="Agrigent"
+				}
+				b_sciacca = {}
+				b_licata = {}
+				b_canicatti = {
+					sicilian="Caniattì"		
+				}
+				b_favara = {}
+				b_palma_di_montechiaro = {
+					sicilian="Parma di Muntichiaru"
+				}
+				b_ribera = {
+					sicilian="Rivela"
+				}
+			}
+		}
+		d_syracuse = {
+			color={ 229 206 137 }
+			color2={ 255 255 255 }
+
+			capital = 593 #	Syracuse
+
+			rhenish="Syrakus"
+			low_saxon="Syrakus"
+			ossi="Syrakus"
+			upper_saxon="Syrakus"
+			bavarian="Syrakus"
+			swabian="Syrakus"
+			austrian="Syrakus"
+			schwyzer="Syrakus"
+			luxembourger="Syrakus"
+			neapolitan="Siracusa"
+			umbrian="Siracusa"
+			tuscan="Siracusa"
+			sicilian="Sarausa"
+			venetian="Siracuxa"
+			romagnol="Siracusa"
+			sardinian="Siracusa"
+			friulian="Siracuse"
+			ligurian="Siracusa"
+			piedmontese="Siracusa"
+			lombard="Siracüsa"
+			romansh="Siracusa"
+			arpitan="Siracusa"
+			occitan="Siracusa"
+			provencal="Siracusa"
+			palatinate="Syrakus"
+			
+			c_syracuse = {
+				color={ 221 215 56 }
+				color2={ 255 255 255 }
+
+				rhenish="Syrakus"
+				low_saxon="Syrakus"
+				ossi="Syrakus"
+				upper_saxon="Syrakus"
+				bavarian="Syrakus"
+				swabian="Syrakus"
+				austrian="Syrakus"
+				schwyzer="Syrakus"
+				luxembourger="Syrakus"
+				neapolitan="Siracusa"
+				umbrian="Siracusa"
+				tuscan="Siracusa"
+				sicilian="Sarausa"
+				venetian="Siracuxa"
+				romagnol="Siracusa"
+				sardinian="Siracusa"
+				friulian="Siracuse"
+				ligurian="Siracusa"
+				piedmontese="Siracusa"
+				lombard="Siracüsa"
+				romansh="Siracusa"
+				arpitan="Siracusa"
+				occitan="Siracusa"
+				provencal="Siracusa"
+				
+				b_syracuse = {
+					rhenish="Syrakus"
+					low_saxon="Syrakus"
+					ossi="Syrakus"
+					upper_saxon="Syrakus"
+					bavarian="Syrakus"
+					swabian="Syrakus"
+					austrian="Syrakus"
+					schwyzer="Syrakus"
+					luxembourger="Syrakus"
+					neapolitan="Siracusa"
+					umbrian="Siracusa"
+					tuscan="Siracusa"
+					sicilian="Sarausa"
+					venetian="Siracuxa"
+					romagnol="Siracusa"
+					sardinian="Siracusa"
+					friulian="Siracuse"
+					ligurian="Siracusa"
+					piedmontese="Siracusa"
+					lombard="Siracüsa"
+					romansh="Siracusa"
+					arpitan="Siracusa"
+					occitan="Siracusa"
+					provencal="Siracusa"
+				}
+				b_ragusa = {
+					sicilian="Rausa"
+				}
+				b_augusta = {
+					sicilian="Austa"
+				}
+				b_avola = {
+					sicilian="Àula"
+				}
+				b_lentini = {
+					sicilian="Lintini"
+				}
+				b_noto = {
+					sicilian="Notu"
+				}
+				b_floridia = {
+					sicilian="Ciuriddia"
+				}
+			}
+			c_catania = {
+				color={ 240 215 142 }
+				color2={ 255 255 255 }
+				
+				parisian="Catane"
+				walloon="Catane"
+				chti="Catane"
+				arpitan="Catana"
+				occitan="Catània"
+				provencal="Catània"
+				friulian="Catanie"
+				ligurian="Catània"
+				
+				b_catania = {
+					parisian="Catane"
+					walloon="Catane"
+					chti="Catane"
+					arpitan="Catana"
+					occitan="Catània"
+					provencal="Catània"
+					friulian="Catanie"
+					ligurian="Catània"}
+				b_acireale = {
+					sicilian="Jaciriali"
+				}
+				b_paterno = {
+					sicilian="Patennò"
+				}
+				b_misterbianco = {
+					sicilian="Mustarjancu"
+				}
+				b_caltagirone = {
+					sicilian="Caltaggiruni"
+				}
+				b_adrano = {
+					sicilian="Adranu"
+				}
+				b_mascalucia = {
+					sicilian="Mascalucìa"
+				}
+			}
+			c_messina = {
+				color={ 217 124 17 }
+				color2={ 255 255 255 }
+
+				sicilian="Missina"
+				venetian="Mesina"
+				friulian="Messine"
+				ligurian="Mescìnn-a"
+				piedmontese="Messin-a"
+				lombard="Mesina"
+				parisian="Messine"
+				walloon="Messine"
+				chti="Messine"
+				arpitan="Mèssina"
+				
+				b_messina = {
+					sicilian="Missina"
+					venetian="Mesina"
+					friulian="Messine"
+					ligurian="Mescìnn-a"
+					piedmontese="Messin-a"
+					lombard="Mesina"
+					parisian="Messine"
+					walloon="Messine"
+					chti="Messine"
+					arpitan="Mèssina"
+				}
+				b_barcellona_pozzo_di_gotto = {
+					sicilian="Baccialona Pizzaottu"
+				}
+				b_milazzo = {
+					sicilian="Milazzu"
+				}
+				b_patti = {}
+				b_capo_d_orlando = {
+					sicilian="Capu d'Orlando"
+				}
+				b_sant_agata_di_militello = {
+					sicilian="Sant'Àita di Militieddu"
+				}
+				b_lipari = {
+					sicilian="Lìpari"
+				}
+			}
+		}
+		d_malta = {
+			color={ 255 154 86 }
+			color2={ 255 255 255 }
+		
+			capital = 597 # Malta
+			
+			walloon="Male"
+			chti="Malte"
+			parisian="Malte"
+			friulian="Malte"
+			ligurian="Mâta"
+			sicilian="Màuta"
+		
+			c_malta = {
+				color={ 208 112 39 }
+				color2={ 255 255 255 }
+				
+				walloon="Male"
+				chti="Malte"
+				parisian="Malte"
+				friulian="Malte"
+				ligurian="Mâta"
+				sicilian="Màuta"
+				
+				b_birgu = {}
+				b_valletta = {}
+				b_st_pauls_bay = {}
+				b_mdina = {}
+				b_qormi = {}
+				b_zabbar = {}
+				b_zejtun = {}
+			}
+		}
+	}
+	k_sardinia = {
+		color={ 160 160 155 }
+		color2={ 255 255 255 }
+		
+		capital = 1100 # Cagliari
+		
+		catholic = 3000 #Rome Proximity
+		
+		rhenish="Sardinien"
+		low_saxon="Sardinien"
+		ossi="Sardinien"
+		upper_saxon="Sardinien"
+		bavarian="Sardinien"
+		swabian="Sardinie"
+		austrian="Sardinien"
+		luxembourger="Sardinien"
+		schwyzer="Sardinie"
+		neapolitan="Zardegna"
+		umbrian="Sardegna"
+		tuscan="Sardegna"
+		sicilian="Sardigna"
+		venetian="Sardegna"
+		romagnol="Sardàggna"
+		sardinian="Sardigna"
+		friulian="Sardegne"
+		ligurian="Sardegna"
+		piedmontese="Sardëgna"
+		lombard="Sardegna"
+		romansh="Sardegna"
+		parisian="Sardaigne"
+		walloon="Sardegne"
+		chti="Sardaigne"
+		arpitan="Sardègne"
+		occitan="Sardenha"
+		provencal="Sardenha"
+		palatinate="Sardinje"
+		
+		d_corsica = {
+			color={ 144 154 144 }
+			color2={ 255 255 255 }
+			
+			capital = 1503 # c_pumonti
+	
+			occitan = "Corsega"
+			provencal = "Corso"
+			corsican = "Corsica"
+			catalan = "Còrsega"
+			basque = "Korsika"
+			breton = "Korsika"
+			parisian = "Corse"
+			chti = "Corse"
+			walloon = "Corse"
+			arpitan = "Kórsa"
+			
+			c_pumonti = { # 1502
+				color={ 144 173 147 }
+				color2={ 255 255 255 }
+	
+				catalan = "Còrsega del Sud"
+				occitan = "Corsega del Sud"
+				provencal = "Corso deu Sud"
+				parisian = "Corse-du-Sud"
+				
+				b_ajaccio = {
+					corsican = "Aiacciu"
+				}
+				b_porto_vecchio = {
+					catalan = "Port Vell"
+					corsican = "Portivechju"
+				}
+				b_sartena = {
+					corsican = "Sartè"
+				}
+				b_vico = {
+					corsican = "Vicu"
+				}
+				b_bonifacio = {
+					corsican = "Bunifaziu"
+				}
+				b_bastelicaccia = {
+					corsican = "Bastilicaccia"
+				}
+				b_propriano = {
+					corsican = "Prupià"
+				}
+			}
+			c_cismonte = { # 1503
+				color={ 134 159 124 }
+				color2={ 255 255 255 }
+	
+				catalan = "Alta Còrsega"
+				arpitan = "Hôta-Corse"
+				occitan = "Nauta Corsega"
+				provencal = "Nauto Corso"
+				parisian = "Haute-Corse"
+				
+				b_calvi = {}
+				b_bastia = {}
+				b_corte = {
+					corsican = "Corti"
+				}
+				b_borgo = {
+					corsican = "U Borgu"
+				}
+				b_biguglia = {}
+				b_lucciana = {}
+				b_furiani = {}
+			}
+		}
+		
+		d_sardinia = {
+			color={ 137 159 155 }
+			color2={ 255 255 255 }
+		
+			capital = 1100 # Cagliari
+
+			rhenish="Sardinien"
+			low_saxon="Sardinien"
+			ossi="Sardinien"
+			upper_saxon="Sardinien"
+			bavarian="Sardinien"
+			swabian="Sardinie"
+			austrian="Sardinien"
+			luxembourger="Sardinien"
+			schwyzer="Sardinie"
+			neapolitan="Zardegna"
+			umbrian="Sardegna"
+			tuscan="Sardegna"
+			sicilian="Sardigna"
+			venetian="Sardegna"
+			romagnol="Sardàggna"
+			sardinian="Sardigna"
+			friulian="Sardegne"
+			ligurian="Sardegna"
+			piedmontese="Sardëgna"
+			lombard="Sardegna"
+			romansh="Sardegna"
+			parisian="Sardaigne"
+			walloon="Sardegne"
+			chti="Sardaigne"
+			arpitan="Sardègne"
+			occitan="Sardenha"
+			provencal="Sardenha"
+			palatinate="Sardinje"
+			
+			c_cagliari = { #1100
+				color={ 121 139 136 }
+				color2={ 255 255 255 }
+
+				arpitan="Calyér"
+				occitan="Castèl"
+				provencal="Càlher"
+				sicilian="Càgghiari"
+				venetian="Cajari"
+				sardinian="Casteddu"
+				ligurian="Càggiai"
+				piedmontese="Càliari"
+				
+				b_cagliari = {
+					arpitan="Calyér"
+					occitan="Castèl"
+					provencal="Càlher"
+					sicilian="Càgghiari"
+					venetian="Cajari"
+					sardinian="Casteddu"
+					ligurian="Càggiai"
+					piedmontese="Càliari"
+				}
+				b_quartu_sant_elena = {
+					sardinian="Cuartu Sant'Aleni"
+				}
+				b_selargius = {
+					sardinian="Ceraxius"
+				}
+				b_assemini = {
+					sardinian="Assèmini"
+				}
+				b_capoterra = {
+					sardinian="Cabuderra"
+				}
+				b_sestu = {}
+				b_monserrato = {
+					sardinian="Paùli"
+				}
+			}
+			c_oristano = {
+				color={ 148 174 141 }
+				color2={ 255 255 255 }
+
+				sicilian="Oristanu"
+				romagnol="Oristàn"
+				sardinian="Aristanis"
+				ligurian="Oistan"
+				piedmontese="Oristan"
+				arpitan="Oristan"
+				occitan="Oristanh"
+				provencal="Oristanh"
+				
+				b_oristano = {
+					sicilian="Oristanu"
+					romagnol="Oristàn"
+					sardinian="Aristanis"
+					ligurian="Oistan"
+					piedmontese="Oristan"
+					arpitan="Oristan"
+					occitan="Oristanh"
+					provencal="Oristanh"
+				}
+				b_terralba = {
+					sardinian="Terraba"
+				}
+				b_cabras = {
+					sardinian="Crabas"
+				}
+				b_bosa = {}
+				b_marrubiu = {
+					sardinian="Marrùbiu"
+				}
+				b_santa_giusta = {
+					sardinian="Santa Justa"
+				}
+				b_ghilarza = {
+					sardinian="Ilàrtzi"
+				}
+			}
+			c_nuoro = {
+				color={ 148 134 141 }
+				color2={ 255 255 255 }
+
+				neapolitan="Nùoro"
+				sicilian="Nùoru"
+				sardinian="Nùgoro"
+				ligurian="Noeuo"
+				piedmontese="Nùoro"
+				
+				b_nuoro = {
+					neapolitan="Nùoro"
+					sicilian="Nùoru"
+					sardinian="Nùgoro"
+					ligurian="Noeuo"
+					piedmontese="Nùoro"
+				}
+				b_siniscola = {
+					sardinian="Thiniscòle"
+				}
+				b_macomer = {
+					sardinian="Macumere"
+				}
+				b_dorgali = {
+					sardinian="Durgali"
+				}
+				b_oliena = {
+					sardinian="Ulìana"
+				}
+				b_orosei = {
+					sardinian="Orosèi"
+				}
+				b_santa_maria_navarrese = {}
+			}
+			c_sassari = {
+				color={ 121 150 144 }
+				color2={ 255 255 255 }
+
+				sicilian="Sàssari"
+				venetian="Sàsari"
+				sardinian="Tàtari"
+				ligurian="Sàsciai"
+				piedmontese="Sàssari"
+				occitan="Sàsser"
+				provencal="Sàsser"
+				
+				b_sassari = {
+					sicilian="Sàssari"
+					venetian="Sàsari"
+					sardinian="Tàtari"
+					ligurian="Sàsciai"
+					piedmontese="Sàssari"
+					occitan="Sàsser"
+					provencal="Sàsser"
+				}
+				b_olbia = {
+					sardinian="Terranoa"
+				}
+				b_alghero = {
+					sardinian="S'Alighèra"
+				}
+				b_porto_torres = {
+					sardinian="Portu Turre"
+				}
+				b_tempio_pausania = {}
+				b_sorso = {}
+				b_ozieri = {
+					sardinian="Otieri"
+				}
+			}
+		}
+	}
+}

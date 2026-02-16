@@ -1,0 +1,56 @@
+# Character scope
+on_yearly_pulse = {
+	events = {
+		brazil_invasion.105 # Brazilians Thrown Back Into the Sea
+	}
+}
+
+# Character scope
+on_five_year_pulse = {
+	events = {
+	}
+
+	random_events = {
+		sunset_invasion = {
+			917 = 0
+			 83 = brazil_invasion.1
+		}
+
+		brazil_invasion_flavour_events = {
+			delay = 160
+
+			680 = 0
+			270 = brazil_invasion.30 # Brazilians Fight Incas
+			270 = brazil_invasion.31 # Brazilians Pacify Northern Plains
+			270 = brazil_invasion.35 # Food From the Americas
+			400 = brazil_invasion.70 # Brazilians Bring Syphilis
+			400 = brazil_invasion.71 # Brazilians Struck by Smallpox
+		}
+	}
+}
+
+# ROOT is losing army owner
+# FROM opponent army owner
+on_battle_lost_owner = {
+	events = {
+		brazil_invasion.105 # Brazilians Thrown Back Into the Sea
+	}
+}
+
+# Fires for all characters presumed to be in the Holding at the time
+# ROOT is local character
+# FROM is lost holding title
+# new_character is owner of siege winner unit
+on_siege_over_loc_chars = {
+	random_events = {
+		400 = brazil_invasion.61 # Brazilian ritual cannibalism
+	}
+}
+
+# Character may still be a landless ruler!
+# ROOT is unlanded character
+on_unlanded = {
+	events = {
+		brazil_invasion.105 # Brazilians Thrown Back Into the Sea
+	}
+}

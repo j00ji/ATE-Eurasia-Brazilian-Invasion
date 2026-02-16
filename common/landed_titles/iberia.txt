@@ -1,0 +1,2147 @@
+###ÄNSI###
+
+e_iberia = {
+	color={ 202 200 39 }
+	color2={ 255 255 20 }
+	
+	capital = 187 # c_madrid
+	
+	k_toledo = {
+		color={ 212 105 74 }
+		color2={ 255 255 255 }
+		
+		capital = 187 # c_madrid
+		
+		catholic = 3000 # Santiago
+		
+		parisian = "Tolède"
+		
+		d_madrid = {
+			color={ 232 85 84 }
+			color2={ 255 255 255 }
+			
+			capital = 187 # c_madrid
+	
+			basque = "Madril"
+			aragonese = "Madrit"
+			
+			c_madrid = { # 187
+				color={ 242 75 89 }
+				color2={ 255 255 255 }
+						
+				basque = "Madril"
+				aragonese = "Madrit"
+				
+				holy_site = modernist
+				
+				b_oriente = {}
+				b_gran_via = {}
+				b_almudena = {}
+				b_mostoles = {}
+				b_zarzuela = {}
+				b_san_jeronimo = {}
+				b_alcala = {}
+			}
+			c_cuenca = { # 189
+				color={ 180 175 136 }
+				color2={ 255 255 255 }
+				
+				b_cuenca = {}
+				b_tarancon = {}
+				b_las_pedroneras = {}
+				b_quintanar_del_rey = {}
+				b_san_clemente = {}
+				b_mota_del_cuervo = {}
+				b_motilla_del_palancar = {}
+			}
+			c_guadalajara = { # 188
+				color={ 197 211 64 }
+				color2={ 255 255 255 }
+				
+				b_azuqueca_de_henares = {}
+				b_guadalajara = {}
+				b_cabanillas_del_campo = {}
+				b_sigueenza = {}
+				b_el_casar = {}
+				b_marchamalo = {}
+				b_molina_de_aragon = {}
+			}
+		}
+		d_extramadura = {
+			color={ 202 181 120 }
+			color2={ 255 255 255 }
+			
+			capital = 194 # c_badajoz
+		
+			portuguese = "Estremadura"
+			asturleonese = "Estremadura"
+			aragonese = "Estremadura"
+			galician = "Estremadura"
+			
+			c_badajoz = { # 194
+				color={ 212 201 55 }
+				color2={ 255 255 255 }
+				
+				b_puerta_de_palmas = {}
+				b_badajoz = {}
+				b_merida = {}
+				b_almendralejo = {}
+				b_montijo = {}
+				b_zafra = {}
+				b_villafranca_de_los_barros = {}
+			}
+			c_caceres = { # 196
+				color={ 156 164 93 }
+				color2={ 255 255 255 }
+				
+				b_cigueenas = {}
+				b_caceres = {}
+				b_plasencia = {}
+				b_coria = {}
+				b_moraleja = {}
+				b_arroyo_de_la_luz = {}
+				b_valencia_de_alcantara = {}
+			}
+			c_las_vegas_altas = { # 195
+				color={ 213 195 19 }
+				color2={ 255 255 255 }
+				
+				b_don_benito = {}
+				b_villanueva_de_la_serena = {}
+				b_guarena = {}
+				b_castuera = {}
+				b_cabeza_del_buey = {}
+				b_campanario = {}
+				b_quintana_de_la_serena = {}
+			}
+			c_navalmoral_de_la_mata = { # 197
+				color={ 180 171 116 }
+				color2={ 255 255 255 }
+				
+				b_navalmoral_de_la_mata = {}
+				b_talayuela = {}
+				b_trujillo = {}
+				b_miajadas = {}
+				b_jaraiz_de_la_vera = {}
+				b_hervas = {}
+				b_losar_de_la_vera = {}
+			}
+		}
+		d_la_mancha = {
+			color={ 229 156 96 }
+			color2={ 255 255 255 }
+			
+			capital = 190 # c_toledo
+		
+			basque = "Mantxa"
+			catalan = "La Manxa"
+			portuguese = "Mancha"
+			galician = "A Mancha"
+			
+			c_toledo = { # 190
+				color={ 239 146 101 }
+				color2={ 255 255 255 }
+				
+				b_madridejos = {}
+				b_toledo = {}
+				b_sonseca = {}
+				b_consuegra = {}
+				b_quintanar_de_la_orden = {}
+				b_villacanas = {}
+				b_mora_2 = {}
+			}
+			c_albacete = { # 193
+				color={ 207 143 139 }
+				color2={ 255 255 255 }
+				
+				b_hellin = {}
+				b_albacete = {}
+				b_villarrodeblo = {}
+				b_almansa = {}
+				b_la_roda = {}
+				b_caudete = {}
+				b_tobarra = {}
+			}
+			c_ciudad_real = { # 192
+				color={ 242 239 48 }
+				color2={ 255 255 255 }
+				
+				b_ciudad_real = {}
+				b_puertollano = {}
+				b_tomelloso = {}
+				b_alcazar_de_san_juan = {}
+				b_veldepenas = {}
+				b_manzanares = {}
+				b_daimiel = {}
+			}
+			c_talavera = { # 191
+				color={ 239 79 10 }
+				color2={ 255 255 255 }
+				
+				b_illescas = {}
+				b_talavera = {}
+				b_torrijos = {}
+				b_sesena = {}
+				b_fuensalida = {}
+				b_bargas = {}
+				b_la_puebla_de_montalban = {}
+			}
+		}
+	}
+	k_andalusia = {
+		color={ 25 127 73 }
+		color2={ 255 255 255 }
+		
+		capital = 220 # c_seville
+		
+		catholic = 2000 # Santiago
+	
+		basque = "Andaluzia"
+		portuguese = "Andaluzia"
+		arpitan = "Andalosie"
+		parisian = "Andalousie"
+		occitan = "Andalosia"
+		provencal = "Andalosia"
+		castilian = "Andalucía"
+		andalusian = "Andalucía"
+		asturleonese = "Andalucía"
+		aragonese = "Andalucía"
+		galician = "Andalucía"
+		
+		d_seville = {
+			color={ 17 89 41 }
+			color2={ 255 255 255 }
+			
+			capital = 220 # c_seville
+		
+			basque = "Sibilia"
+			catalan = "Xibília"
+			portuguese = "Sevilha"
+			occitan = "Sevilha"
+			provencal = "Sevilha"
+			castilian = "Sevilla"
+			andalusian = "Sevilla"
+			
+			c_seville = { # 220
+				color={ 20 102 47 }
+				color2={ 255 255 255 }
+
+				holy_site = penitant
+			
+				basque = "Sibilia"
+				catalan = "Xibília"
+				portuguese = "Sevilha"
+				occitan = "Sevilha"
+				provencal = "Sevilha"
+				castilian = "Sevilla"
+				andalusian = "Sevilla"
+				
+				b_dos_hermanas = {}
+				b_seville = {
+					basque = "Sibilia"
+					catalan = "Xibília"
+					portuguese = "Sevilha"
+					occitan = "Sevilha"
+					provencal = "Sevilha"
+					castilian = "Sevilla"
+					andalusian = "Sevilla"
+					}
+				b_alcala_de_guadaira = {}
+				b_utrera = {}
+				b_ecija = {}
+				b_la_rinconada = {}
+				b_los_palacios_y_villafranca = {}
+			}
+			c_cordoba = { # 223
+				color={ 15 76 35 }
+				color2={ 255 255 255 }
+			
+				basque = "Kordoba"
+				catalan = "Còrdova"
+				portuguese = "Córdova"
+				occitan = "Còrdoa"
+				provencal = "Còrdoa"
+				
+				b_lucena = {}
+				b_cordoba = {
+					basque = "Kordoba"
+					catalan = "Còrdova"
+					portuguese = "Córdova"
+					occitan = "Còrdoa"
+					provencal = "Còrdoa"
+					}
+				b_puente_genil = {}
+				b_montilla = {}
+				b_priego_de_cordoba = {}
+				b_cabra = {}
+				b_baena = {}
+			}
+			c_huelva = { # 222
+				color={ 30 153 71 }
+				color2={ 255 255 255 }
+				
+				b_lepe = {}
+				b_huelva = {}
+				b_almonte = {}
+				b_moguer = {}
+				b_isla_cristina = {}
+				b_aljaraque = {}
+				b_ayamonte = {}
+			}
+			c_sierra_norte = { # 221
+				color={ 10 51 23 }
+				color2={ 255 255 255 }
+				
+				b_mairena_de_aljarafe = {}
+				b_coria_del_rio = {}
+				b_camas = {}
+				b_tomares = {}
+				b_bormujos = {}
+				b_lora_del_rio = {}
+				b_castilleja_de_la_cuesta = {}
+			}
+		}
+		d_cadiz = {
+			color={ 33 165 97 }
+			color2={ 255 255 255 }
+			
+			capital = 224 # c_cadiz
+		
+			basque = "Karize"
+			catalan = "Cadis"
+			portuguese = "Cádis"
+			occitan = "Cadis"
+			provencal = "Cadis"
+			castilian = "Cádiz"
+			andalusian = "Cádiz"
+			asturleonese = "Cádiz"
+			galician = "Cádiz"
+			
+			c_cadiz = { # 224
+				color={ 20 102 61 }
+				color2={ 255 255 255 }
+				
+				basque = "Karize"
+				catalan = "Cadis"
+				portuguese = "Cádis"
+				occitan = "Cadis"
+				provencal = "Cadis"
+				castilian = "Cádiz"
+				andalusian = "Cádiz"
+				asturleonese = "Cádiz"
+				galician = "Cádiz"
+				
+				b_cadiz = {
+					basque = "Karize"
+					catalan = "Cadis"
+					portuguese = "Cádis"
+					occitan = "Cadis"
+					provencal = "Cadis"
+					castilian = "Cádiz"
+					andalusian = "Cádiz"
+					asturleonese = "Cádiz"
+					galician = "Cádiz"
+					}
+				b_jerez = {}
+				b_san_fernando = {}
+				b_santa_maria = {}
+				b_chiclana = {}
+				b_sanlucar_de_barrameda = {}
+				b_puerto_real = {}
+			}
+			c_gibraltar = { # 225
+				color={ 25 127 76 }
+				color2={ 255 255 255 }
+				
+				b_westside = {}
+				b_the_rock = {}
+				b_la_linea_de_la_concepcion = {}
+				b_algeciras = {}
+				b_los_barrios = {}
+				b_barbate = {}
+				b_conil = {}
+			}
+		}
+		d_granada = {
+			color={ 22 140 84 }
+			color2={ 255 255 255 }
+			
+			capital = 226 # c_granada
+			
+			c_granada = { # 226
+				color={ 15 153 107 }
+				color2={ 255 255 255 }
+				
+				b_motril = {}
+				b_granada = {}
+				b_almunecar = {}
+				b_armilla = {}
+				b_maracena = {}
+				b_baza = {}
+				b_loja = {}
+			}
+			c_almeria = { # 228
+				color={ 20 204 142 }
+				color2={ 255 255 255 }
+				
+				catalan = "Almeria"
+				
+				b_roquetas_de_mar = {}
+				b_almeria = {}
+				b_el_ejido = {}
+				b_nijar = {}
+				b_vicar = {}
+				b_adra = {}
+				b_huercal_overa = {}
+			}
+			c_jaen = { # 230
+				color={ 12 127 89 }
+				color2={ 255 255 255 }
+				
+				b_alcala_la_real = {}
+				b_jaen = {}
+				b_linares = {}
+				b_andujar = {}
+				b_ubeda = {}
+				b_martos = {}
+				b_bailen = {}
+			}
+			c_malaga = { # 227
+				color={ 22 229 160 }
+				color2={ 255 255 255 }
+				
+				catalan = "Màlaga"
+				
+				b_marbella = {}
+				b_malaga = {}
+				b_velez_malaga = {}
+				b_mijas = {}
+				b_fuengirola = {}
+				b_torremolinos = {}
+				b_benalmadena = {}
+			}
+			c_murcia = { # 229
+				color={ 10 102 71 }
+				color2={ 255 255 255 }
+				
+				catalan = "Múrcia"
+				
+				b_lorca = {}
+				b_murcia = {}
+				b_cartagena = {}
+				b_molina_de_segura = {}
+				b_alcantarilla = {}
+				b_torre_pacheco = {}
+				b_aguilas = {}
+			}
+		}
+	}
+	k_castile = {
+		color={ 154 35 34 }
+		color2={ 255 255 255 }
+		
+		capital = 198 # c_valladolid
+	
+		basque = "Gaztela eta Leon"
+		parisian = "Castille-et-León"
+		catalan = "Castella i Lleó"
+		portuguese = "Castela e Leão"
+		arpitan = "Castilye-et-Lion"
+		occitan = "Castelha e Leon"
+		provencal = "Castelha e Leon"
+		castilian = "Castilla y León"
+		andalusian = "Castilla y León"
+		asturleonese = "Castiella y Llión"
+		aragonese = "Castiella y Leyón"
+		galician = "Castela e León"
+		
+		d_castile = {
+			color={ 194 55 54 }
+			color2={ 255 255 255 }
+			
+			capital = 198 # c_valladolid
+		
+			basque = "Gaztela"
+			catalan = "Castella"
+			portuguese = "Castela"
+			occitan = "Castelha"
+			provencal = "Castelha"
+			castilian = "Castilla"
+			andalusian = "Castilla"
+			asturleonese = "Castiella"
+			aragonese = "Castiella"
+			galician = "Castela"
+			
+			c_valladolid = { # 198
+				color={ 204 145 99 }
+				color2={ 255 255 255 }
+				
+				aragonese = "Valladolit"
+				
+				b_laguna_de_duero = {}
+				b_valladolid = {
+					aragonese = "Valladolit"
+					}
+				b_medina_del_campo = {}
+				b_tordesillas = {
+					aragonese = "Tordesilhas"
+					}
+				b_tudela_de_duero = {}
+				b_iscar = {}
+				b_penafiel = {}
+			}
+			c_avila = { # 200
+				color={ 247 122 113 }
+				color2={ 255 255 255 }
+				
+				catalan = "Àvila"
+				
+				b_arevalo = {}
+				b_avila = {
+					catalan = "Àvila"}
+				b_san_vicente = {}
+				b_arenas_de_san_pedro = {}
+				b_candeleda = {}
+				b_las_navas_del_marques = {}
+				b_sotillo_de_la_adrada = {}
+			}
+			c_burgos = { # 201
+				color={ 247 103 101 }
+				color2={ 255 255 255 }
+				
+				b_burgos = {}
+				b_mirande_de_ebro = {}
+				b_aranda_de_duero = {}
+				b_briviesca = {}
+				b_medina_de_pomar = {}
+				b_lerma = {}
+				b_belorado = {}
+			}
+			c_palencia = { # 199
+				color={ 204 40 97 }
+				color2={ 255 255 255 }
+				
+				basque = "Palentzia"
+				
+				b_paredes_de_monte = {}
+				b_palencia = {
+					basque = "Palentzia"
+				}
+				b_cristo_del_otero = {}
+				b_guardo = {}
+				b_aguilar_de_campoo = {}
+				b_venta_de_banos = {}
+				b_villamuriel_de_cerrato = {}
+			}
+			c_segovia = { # 202
+				color={ 147 93 47 }
+				color2={ 255 255 255 }
+				
+				b_el_espinar = {}
+				b_segovia = {}
+				b_cuellar = {}
+				b_san_ildefonso = {}
+				b_cantalejo = {}
+				b_nava_de_la_asuncion = {}
+				b_san_cristobal_de_segovia = {}
+			}
+			c_soria = { # 203
+				color={ 247 135 74 }
+				color2={ 255 255 255 }
+				
+				b_almazan = {}
+				b_soria = {}
+				b_burgo_de_osma = {}
+				b_san_esteban_de_gormaz = {}
+				b_olvega = {}
+				b_agreda = {}
+				b_san_leonardo_de_yaguee = {}
+			}
+		}
+		d_asturias = {
+			color={ 230 52 29 }
+			color2={ 255 255 255 }
+			
+			capital = 208 # c_oviedo
+		
+			catalan = "Astúries"
+			portuguese = "Astúrias"
+			occitan = "Astúrias"
+			provencal = "Astúrias"
+			asturleonese = "Asturies"
+			
+			c_oviedo = { # 208
+				color={ 240 42 44 }
+				color2={ 255 255 255 }
+				
+				asturleonese = "Uviéu"
+				
+				b_oviedo = {
+					asturleonese = "Uviéu"}
+				b_aviles = {}
+				b_castrillon = {}
+				b_corvera_de_asturias = {
+					asturleonese = "Corvera"}
+				b_cangas_del_narcea = {}
+				b_valdes = {}
+				b_gozon = {}
+			}
+			c_cantabria = { # 210
+				color={ 171 57 14 }
+				color2={ 255 255 255 }
+				
+				basque = "Kantabria"
+				
+				b_camargo = {
+					asturleonese = "Camargu"}
+				b_santander = {}
+				b_torrelavega = {
+					asturleonese = "Torlavega"}
+				b_castro_urdiales = {}
+				b_el_astillero = {}
+				b_pielagos = {}
+				b_laredo = {}
+			}
+			c_gijon = { # 209
+				color={ 210 28 45 }
+				color2={ 255 255 255 }
+				
+				asturleonese = "Xixón"
+				
+				b_siero = {
+					asturleonese = "La Pola Siero"}
+				b_gijon = {
+					asturleonese = "Xixón"}
+				b_langreo = {
+					asturleonese = "Llangréu"}
+				b_mieres = {}
+				b_san_martin_del_rey_aurelio = {
+					asturleonese = "Samartín del Rei Aurelio"}
+				b_villaviciosa = {}
+				b_llanes = {}
+			}
+		}
+		d_leon = {
+			color={ 214 23 5 }
+			color2={ 255 255 255 }
+			
+			capital = 204 # c_leon
+		
+			catalan = "Lleó"
+			portuguese = "Leão"
+			occitan = "Leon"
+			provencal = "Leon"
+			asturleonese = "Llión"
+			aragonese = "Leyón"
+			
+			c_leon = { # 204
+				color={ 204 33 0 }
+				color2={ 255 255 255 }
+			
+				catalan = "Lleó"
+				portuguese = "Leão"
+				occitan = "Leon"
+				provencal = "Leon"
+				asturleonese = "Llión"
+				aragonese = "Leyón"
+				
+				b_san_andres_del_rabanedo = {}
+				b_leon = {
+					catalan = "Lleó"
+					portuguese = "Leão"
+					occitan = "Leon"
+					provencal = "Leon"
+					asturleonese = "Llión"
+					aragonese = "Leyón"}
+				b_villaquilambre = {}
+				b_la_robla = {
+					asturleonese = "La Robra"}
+				b_la_pola_de_gordon = {}
+				b_valverde_de_la_virgen = {}
+				b_cistierna = {}
+			}
+			c_el_bierzo = { # 205
+				color={ 204 118 114 }
+				color2={ 255 255 255 }
+				
+				galician = "O Bierzo"
+				portuguese = "O Bierzo"
+				asturleonese = "El Bierzu"
+				
+				b_bembibre = {}
+				b_ponferrada = {}
+				b_villablino = {
+					asturleonese = "Vitsablinu"}
+				b_astorga = {
+					asturleonese = "Estorga"}
+				b_la_baneza = {}
+				b_fabero = {
+					asturleonese = "El Fabeiru"
+					galician = "Fabeiro"}
+				b_cacabelos = {}
+			}
+			c_salamanca = { # 206
+				color={ 236 109 106 }
+				color2={ 255 255 255 }
+				
+				b_santa_marta_de_tormes = {}
+				b_salamanca = {}
+				b_bejar = {}
+				b_ciudad_rodrigo = {}
+				b_villamayor = {}
+				b_carbajosa_de_la_sagrada = {}
+				b_penaranda_de_bracamonte = {}
+			}
+			c_zamora = { # 207
+				color={ 200 14 34 }
+				color2={ 255 255 255 }
+				
+				portuguese = "Samora"
+				
+				b_zamora = {
+					portuguese = "Samora"
+				}
+				b_benavente = {}
+				b_toro = {}
+				b_morales_del_vino = {}
+				b_villaralbo = {}
+				b_moraleja_del_vino = {}
+				b_fuentesauco = {}
+			}
+		}
+	}
+k_galicia = {
+		color={ 222 44 19 }
+		color2={ 255 255 255 }
+			
+		capital = 211 # c_a_coruna	
+		
+		catholic = 4000 # Santiago
+		
+		basque = "Galizia"
+		catalan = "Galícia"
+		portuguese = "Galiza"
+		occitan = "Galícia"
+		provencal = "Galícia"
+		galician = "Galiza"
+	
+	d_galicia = {
+			color={ 222 43 19 }
+			color2={ 255 255 255 }
+			
+			capital = 211 # c_a_coruna
+		
+			basque = "Galizia"
+			catalan = "Galícia"
+			portuguese = "Galiza"
+			occitan = "Galícia"
+			provencal = "Galícia"
+			galician = "Galiza"
+			
+			c_a_coruna = { # 211
+				color={ 212 53 44 }
+				color2={ 255 255 255 }
+				
+				portuguese = "Corunha"
+				castilian = "La Coruña"
+				andalusian = "La Coruña"
+				holy_site = apostolic
+				holy_site = celeste
+				
+					
+				b_santiago = {}
+				b_a_coruna = {
+					portuguese = "Corunha"
+					castilian = "La Coruña"
+					andalusian = "La Coruña"}
+				b_ferrol = {}
+				b_naron = {}
+				b_carballo = {}
+				b_oleiros = {}
+				b_ribeira = {
+					castilian = "Riveira"
+					andalusian = "Riveira"}
+			}
+			c_lugo = { # 212
+				color={ 227 77 95 }
+				color2={ 255 255 255 }
+				
+				b_lugo = {}
+				b_monforte_de_lemos = {}
+				b_vilalba = {
+					castilian = "Villalba"
+					andalusian = "Villalba"}
+				b_viveiro = {
+					castilian = "Vivero"
+					andalusian = "Vivero"}
+				b_sarria = {}
+				b_chantada = {}
+				b_foz = {}
+			}
+			c_ourense = { # 213
+				color={ 172 153 81 }
+				color2={ 255 255 255 }
+				
+				castilian = "Orense"
+				andalusian = "Orense"
+				
+				b_miraflor = {}
+				b_ourense = {
+					castilian = "Orense"
+					andalusian = "Orense"}
+				b_verin = {}
+				b_o_barco_de_valdeorras = {
+					castilian = "El Barco de Valdeorras"
+					andalusian = "El Barco de Valdeorras"}
+				b_o_carballino = {
+					castilian = "Carballino"
+					andalusian = "Carballino"
+					portuguese = "Carvalhinho"}
+				b_xinzo_de_limia = {
+					castilian = "Ginzo de Limia"
+					andalusian = "Ginzo de Limia"
+					portuguese = "Ginço de Lima"}
+				b_barbadas = {}
+			}
+			c_pontevedra = { # 214
+				color={ 193 82 11 }
+				color2={ 255 255 255 }
+				
+				b_pontevedra = {}
+				b_vigo = {}
+				b_vilagarcia_de_arousa = {
+					castilian = "Villagarcía de Arosa"
+					andalusian = "Villagarcía de Arosa"}
+				b_redondela = {}
+				b_cangas = {}
+				b_marin_2 = {}
+				b_ponteareas = {
+					castilian = "Puenteareas"
+					andalusian = "Puenteareas"}
+			}
+		}
+	}
+	k_aragon = {
+		color={ 251 243 34 }
+			color2={ 255 255 255 }
+			
+			capital = 235 # c_zaragoza
+			
+			catholic = 1400 # Santiago
+		
+			basque = "Aragoi"
+			catalan = "Aragó"
+			portuguese = "Aragão"
+			castilian = "Aragón"
+			andalusian = "Aragón"
+			asturleonese = "Aragón"
+			aragonese = "Aragón"
+			galician = "Aragón"
+			
+		d_alto_aragon = {
+			color={ 190 191 71 }
+			color2={ 255 255 255 }
+			
+			capital = 235 # c_zaragoza
+		
+			basque = "Altu Aragoi"
+			catalan = "Alt Aragó"
+			portuguese = "Alto Aragão"
+			castilian = "Alto Aragón"
+			andalusian = "Alto Aragón"
+			asturleonese = "Alto Aragón"
+			aragonese = "Alto Aragón"
+			galician = "Alto Aragón"
+			
+			c_zaragoza = { # 235
+				color={ 239 233 139 }
+				color2={ 255 255 255 }
+				
+				catalan = "Saragossa"
+				aragonese = "Zaragoça"
+				occitan = "Saragossa"
+				provencal = "Saragossa"
+				holy_site = penitant
+				holy_site = apostolic
+				holy_site = celeste
+				
+				b_lalchafaria = {}
+				b_zaragoza = {
+					catalan = "Saragossa"
+					aragonese = "Zaragoça"
+					occitan = "Saragossa"
+					provencal = "Saragossa"}
+				b_ejea_de_los_caballeros = {
+					catalan = "Eixea"
+					aragonese = "Exeya d'os Caballers"
+					occitan = "Exeya d'os Cavallers"
+					provencal = "Exeya d'os Cavallers"}
+				b_utebo = {
+					aragonese = "Utevo"}
+				b_tarazona = {
+					catalan = "Tarassona"
+					aragonese = "Taraçona"
+					occitan = "Taraçona"
+					provencal = "Taraçona"}
+				b_caspe = {
+					catalan = "Casp"
+					aragonese = "Casp"
+					occitan = "Casp"
+					provencal = "Casp"}
+				b_tauste = {
+					catalan = "Taüst"
+					aragonese = "Taust"}
+			}
+			c_huesca = { # 237
+				color={ 232 208 67 }
+				color2={ 255 255 255 }
+				
+				catalan = "Osca"
+				aragonese = "Uesca"
+				occitan = "Òsca"
+				provencal = "Òsca"
+				
+				b_monzon = {
+					catalan = "Montsó"
+					occitan = "Montson"
+					provencal = "Montson"}
+				b_huesca = {
+					catalan = "Osca"
+					aragonese = "Uesca"
+					occitan = "Òsca"
+					provencal = "Òsca"}
+				b_barbastro = {
+					catalan = "Barbastre"
+					aragonese = "Balbastro"
+					occitan = "Barbastre"
+					provencal = "Barbastre"}
+				b_fraga = {}
+				b_jaca = {
+					aragonese = "Chaca"
+					basque = "Jaka"}
+				b_sabinanigo = {
+					catalan = "Samianigo"
+					aragonese = "Samianigo"}
+				b_binefar = {
+					aragonese = "Binèfar"}
+			}
+		}
+		d_bajo_aragon = {
+			color={ 222 141 104 }
+			color2={ 255 255 255 }
+			
+			capital = 238 # c_teruel
+		
+			basque = "Baxua Aragoi"
+			catalan = "Baix Aragó"
+			portuguese = "Baixo Aragão"
+			castilian = "Bajo Aragón"
+			andalusian = "Bajo Aragón"
+			asturleonese = "Bajo Aragón"
+			aragonese = "Bajo Aragón"
+			galician = "Baixo Aragón"
+			
+			c_calatayud = { # 236
+				color={ 186 178 37 }
+				color2={ 255 255 255 }
+				
+				catalan = "Calataiud"
+				aragonese = "Calatayú"
+				occitan = "Calatayú"
+				provencal = "Calatayú"
+				
+				b_ayud = {}
+				b_calatayud = {
+					catalan = "Calataiud"
+					aragonese = "Calatayú"
+					occitan = "Calatayú"
+					provencal = "Calatayú"}
+				b_carinena = {
+					catalan = "Carinyena"
+					aragonese = "Carinyena"
+					occitan = "Cariñena"
+					provencal = "Cariñena"}
+				b_daroca = {}
+				b_ateca = {}
+				b_belchite = {
+					aragonese = "Belchit"
+					occitan = "Belgit"
+					provencal = "Belgit"}
+				b_alfamen = {}
+			}
+			c_teruel = { # 238
+				color={ 205 200 41 }
+				color2={ 255 255 255 }
+				
+				catalan = "Terol"
+				occitan = "Teròl"
+				provencal = "Teròl"
+				
+				b_alcaniz = {
+					aragonese = "Alcanyiz"
+					catalan = "Alcanyís"
+					occitan = "Alcanyiz"
+					provencal = "Alcanyiz"}
+				b_teruel = {
+					catalan = "Terol"
+					occitan = "Teròl"
+					provencal = "Teròl"}
+				b_andorra = {}
+				b_calamocha = {}
+				b_calanda = {}
+				b_alcorisa = {}
+				b_utrillas = {
+					aragonese = "Utriellas"
+					occitan = "Utriellas"
+					provencal = "Utriellas"}
+			}
+		}
+	}
+	k_catalonia = {
+		color={ 23 51 229 }
+		color2={ 255 255 255 }
+		
+		capital = 231 # c_barcelona
+		
+		catholic = 2000 # Santiago
+	
+		basque = "Katalunia"
+		catalan = "Catalunya"
+		portuguese = "Catalunha"
+		arpitan = "Catalogne"
+		parisian = "Catalogne"
+		occitan = "Catalonha"
+		provencal = "Catalonha"
+		castilian = "Cataluña"
+		andalusian = "Cataluña"
+		asturleonese = "Cataluña"
+		aragonese = "Catalunya"
+		galician = "Cataluña"
+		
+		d_barcelona = {
+			color={ 3 71 219 }
+			color2={ 255 255 255 }
+			
+			capital = 231 # c_barcelona
+		
+			basque = "Bartzelona"
+			
+			c_barcelona = { # 231
+				color={ 49 81 214 }
+				color2={ 255 255 255 }
+		
+				basque = "Bartzelona"
+				
+				b_santa_florentina = {}
+				b_barcelona = {
+					basque = "Bartzelona"}
+				b_sagrada_familia = {}
+				b_lhospitalet_de_llobregat = {
+					castilian = "Hospitalet de Llobregat"
+					andalusian = "Hospitalet de Llobregat"}
+				b_badalona = {}
+				b_terrassa = {
+					andalusian = "Tarrasa"
+					castilian = "Tarrasa"}
+				b_sabadell = {}
+			}
+			c_girona = { # 232
+				color={ 1 124 253 }
+				color2={ 255 255 255 }
+				
+				castilian = "Gerona"
+				andalusian = "Gerona"
+				aragonese = "Chirona"
+				
+				b_salt = {}
+				b_girona = {
+					castilian = "Gerona"
+					andalusian = "Gerona"
+					aragonese = "Chirona"}
+				b_figueres = {
+					aragonese = "Figueras"
+					castilian = "Figueras"
+					andalusian = "Figueras"}
+				b_blanes = {}
+				b_lloret_de_mar = {}
+				b_olot = {}
+				b_palafrugell = {}
+			}
+			c_lleida = { # 233
+				color={ 47 133 239 }
+				color2={ 255 255 255 }
+				
+				occitan = "Lhèida"
+				provencal = "Lhèida"
+				aragonese = "Leida"
+				castilian = "Lérida"
+				andalusian = "Lérida"
+				
+				b_tarrega = {
+					castilian = "Tárrega"
+					andalusian = "Tárrega"}
+				b_lleida = {
+					occitan = "Lhèida"
+					provencal = "Lhèida"
+					aragonese = "Leida"
+					castilian = "Lérida"
+					andalusian = "Lérida"}
+				b_balaguer = {}
+				b_mollerussa = {}
+				b_la_seu_durgell = {
+					aragonese = "Seu d'Urchel"
+					castilian = "Seo de Urgel"
+					andalusian = "Seo de Urgel"}
+				b_alcarras = {
+					castilian = "Alcarrás"
+					andalusian = "Alcarrás"}
+				b_solsona = {}
+			}
+			c_tarragona = { # 234
+				color={ 61 81 132 }
+				color2={ 255 255 255 }
+				
+				b_salou = {}
+				b_tarragona = {}
+				b_reus = {}
+				b_el_vendrell = {
+					castilian = "Vendrell"
+					andalusian = "Vendrell"}
+				b_tortosa = {}
+				b_cambrils = {}
+				b_valls = {}
+			}
+		}
+		d_balears = {
+			color={ 55 55 179 }
+			color2={ 255 255 255 }
+
+			capital = 292 # c_mallorca
+		
+			basque = "Balearrak"
+			portuguese = "Baleares"
+			occitan = "Balearas"
+			provencal = "Balearas"
+			castilian = "Baleares"
+			andalusian = "Baleares"
+			asturleonese = "Baleares"
+			galician = "Baleares"
+			
+			c_menorca = { # 291
+				color={ 155 163 215 }
+				color2={ 255 255 255 }
+				
+				occitan = "Menòrca"
+				provencal = "Menòrca"
+				
+				b_mao = {
+					castilian = "Mahón"
+					andalusian = "Mahón"
+					occitan = "Maon"
+					provencal = "Maon"}
+				b_la_mola = {}
+				b_santa_maria_de_ciutadella = {}
+				b_santa_agueda = {}
+				b_ciutadella = {
+					aragonese = "Ciutadiella"
+					castilian = "Ciudadela"
+					andalusian = "Ciudadela"}
+				b_alaior = {
+					castilian = "Alayor"
+					andalusian = "Alayor"}
+				b_sant_lluis = {
+					castilian = "San Luis"
+					andalusian = "San Luis"}
+			}
+			c_eivissa = { # 293
+				color={ 55 68 181 }
+				color2={ 255 255 255 }
+				
+				occitan = "Eivissa"
+				provencal = "Eivissa"
+				aragonese = "Eivissa"
+				catalan = "Eivissa"
+				
+				b_dalt_vila = {}
+				b_santa_eularia = {
+					castilian = "Santa Eulalia"
+					andalusian = "Santa Eulalia"}
+				b_virgen_de_las_neves = {}
+				b_castell = {}
+				b_es_canar = {
+					castilian = "Es Caná"
+					andalusian = "Es Caná"}
+				b_portmany = {
+					castilian = "San Antonio Abad"
+					andalusian = "San Antonio Abad"}
+				b_sant_josep = {
+					castilian = "San José"
+					andalusian = "San José"}
+			}
+			c_mallorca = { # 292
+				color={ 106 74 210 }
+				color2={ 255 255 255 }
+				
+				occitan = "Malhòrca"
+				provencal = "Malhòrca"
+				
+				b_bellver = {}
+				b_santa_maria_4 = {}
+				b_palma = {}
+				b_almudaina = {}
+				b_bendinat = {}	
+				b_calvia = {
+					castilian = "Calviá"
+					andalusian = "Calviá"}
+				b_manacor = {}
+			}
+		}
+		d_andorra = {
+			color={ 114 160 217 }
+			color2={ 255 255 255 }
+			
+			capital = 243 # c_andorra
+		
+			occitan = "Andòrra"
+			provencal = "Andòrra"
+			
+			c_andorra = { # 243
+				color={ 124 150 222 }
+				color2={ 255 255 255 }
+			
+				occitan = "Andòrra"
+				provencal = "Andòrra"
+				
+				b_barri_antic = {}
+				b_andorra_la_vella = {
+					aragonese = "Andorra la Viella"
+					castilian = "Andorra la Vieja"
+					andalusian = "Andorra la Vieja"
+					parisian = "Andorre-la-Vieille"
+					occitan = "Andòrra la Vièlha"
+					provencal = "Andòrra la Vièlha"}
+				b_sant_esteve = {}
+				b_escaldes_engordany = {}
+				b_sant_julia_de_loria = {}
+				b_encamp = {}
+				b_la_massana = {}
+			}
+		}
+		d_valencia = {
+			color={ 85 172 235 }
+			color2={ 255 255 255 }
+			
+			capital = 239 # c_valencia
+		
+			basque = "Valentzia"
+			catalan = "València"
+			portuguese = "Valência"
+			occitan = "Valéncia"
+			provencal = "Valéncia"
+			
+			c_valencia = { # 239
+				color={ 75 82 240 }
+				color2={ 255 255 255 }
+			
+				basque = "Valentzia"
+				catalan = "València"
+				portuguese = "Valência"
+				occitan = "Valéncia"
+				provencal = "Valéncia"
+				
+				b_torrent = {
+					castilian = "Torrente"
+					andalusian = "Torrente"}
+				b_valencia = {
+					basque = "Valentzia"
+					catalan = "València"
+					portuguese = "Valência"
+					occitan = "Valéncia"
+					provencal = "Valéncia"}
+				b_gandia = {
+					castilian = "Gandía"
+					andalusian = "Gandía"
+					basque = "Gandía"}
+				b_paterna = {}
+				b_sagunt = {
+					basque = "Sagunto"
+					castilian = "Sagunto"
+					andalusian = "Sagunto"
+					aragonese = "Murviedro"
+					occitan = "Sagont"
+					provencal = "Sagont"}
+				b_mislata = {
+					aragonese = "Mizlata"}
+				b_burjassot = {
+					castilian = "Burjasot"
+					andalusian = "Burjasot"
+					aragonese = "Burchazot"}
+			}
+			c_alicante = { # 242
+				color={ 153 198 251 }
+				color2={ 255 255 255 }
+				
+				catalan = "Alacant"
+				aragonese = "Alicant"
+				occitan = "Alacant"
+				provencal = "Alacant"
+				
+				b_alicante = {
+					catalan = "Alacant"
+					aragonese = "Alicant"
+					occitan = "Alacant"
+					provencal = "Alacant"}
+				b_elche = {
+					catalan = "Elx"
+					aragonese = "Elch"
+					occitan = "Elx"
+					provencal = "Elx"}
+				b_torrevieja = {
+					catalan = "Torrevella"
+					aragonese = "Torrevella"}
+				b_orihuela = {
+					aragonese = "Oriuela"
+					catalan = "Oriola"
+					occitan = "Oriola"
+					provencal = "Oriola"}
+				b_benidorm = {}
+				b_alcoy = {
+					aragonese = "Alcoi"
+					catalan = "Alcoi"
+					basque = "Alcoi"
+					occitan = "Alcoi"
+					provencal = "Alcoi"}
+				b_san_vicente_del_raspeig = {
+					aragonese = "Sant Vicent del Raspeig"
+					catalan = "Sant Vicent del Raspeig"
+					basque = "Sant Vicent del Raspeig"}
+			}
+			c_castellon = { # 241
+				color={ 49 115 189 }
+				color2={ 255 255 255 }
+				
+				catalan = "Castelló"
+				occitan = "Castelló"
+				provencal = "Castelló"
+				
+				b_almassora = {
+					castilian = "Almazora"
+					andalusian = "Almazora"
+					aragonese = "Almazora"
+					occitan = "Almazora"
+					provencal = "Almazora"}
+				b_castellon = {
+					catalan = "Castelló"
+					occitan = "Castelló"
+					provencal = "Castelló"}
+				b_vila_real_2 = {
+					aragonese = "Villa-reyal"
+					castilian = "Villarreal"
+					andalusian = "Villarreal"}
+				b_borriana = {
+					castilian = "Burriana"
+					andalusian = "Burriana"
+					aragonese = "Burriana"
+					occitan = "Burriana"
+					provencal = "Burriana"}
+				b_la_vall_duixo = {
+					castilian = "La Vall d'Uixó"
+					andalusian = "La Vall d'Uixó"
+					aragonese = "La Val d'Uixón"}
+				b_benicarlo = {}
+				b_almassora_2 = {
+					castilian = "Almazora"
+					andalusian = "Almazora"
+					aragonese = "Almazora"
+					occitan = "Almazora"
+					provencal = "Almazora"}
+			}
+			c_cofrents_aiora = { # 240
+				color={ 116 150 188 }
+				color2={ 255 255 255 }
+				
+				castilian = "Cofrentes-Ayora"
+				andalusian = "Cofrentes-Ayora"
+				aragonese = "Cofrentes-Ayora"
+				occitan = "Cofrentes-Ayora"
+				provencal = "Cofrentes-Ayora"
+				
+				b_xativa = {
+					aragonese = "Exativa"
+					castilian = "Játiva"
+					andalusian = "Játiva"}
+				b_ontinyent = {
+					aragonese = "Ontenyent"
+					castilian = "Onteniente"
+					andalusian = "Onteniente"}
+				b_la_pobla_de_vallbona = {
+					occitan = "Pobla de Vallbona"
+					provencal = "Pobla de Vallbona"
+					castilian = "Puebla de Vallbona"
+					andalusian = "Puebla de Vallbona"}
+				b_lliria = {
+					aragonese = "Liria"
+					castilian = "Liria"
+					andalusian = "Liria"}
+				b_requena = {}
+				b_chiva = {
+					aragonese = "Chiba"
+					catalan = "Xiva"}
+				b_canals = {}
+			}
+		}
+	}
+	k_euskadi = {
+		color={ 61 184 35 }
+		color2={ 255 255 255 }
+		
+		capital = 215 # c_navarre
+		
+		catholic = 1000 # Santiago
+	
+		occitan = "Bascoat"
+		provencal = "Bascoat"
+		
+		d_baskonia = {
+			color={ 21 188 5 }
+			color2={ 255 255 255 }
+			
+			capital = 215 # c_navarre
+		
+			occitan = "Bascoat"
+			provencal = "Bascoat"
+			
+			c_navarre = { # 215
+				color={ 51 178 50 }
+				color2={ 255 255 255 }
+				
+				asturleonese = "Navarra"
+				castilian = "Navarra"
+				basque = "Nafarroa"
+				catalan = "Navarra"
+				aragonese = "Navarra"
+				occitan = "Navarra"
+				provencal = "Navarra"
+				
+				holy_site = chevalier
+				
+				b_xabierko_gastelua = {}
+				b_pamplona = {
+					parisian = "Pampelune"
+					occitan = "Pampalona"
+					provencal = "Pampalona"
+					basque = "Iruñea"}
+				b_tudela = {
+					asturleonese = "Tutera"
+					occitan = "Tudèla"
+					provencal = "Tudèla"
+					basque = "Tutera"}
+				b_baranain = {
+					aragonese = "Barañáin"
+					castilian = "Barañáin"
+					andalusian = "Barañáin"}
+				b_burlada = {
+					aragonese = "Bruslata"
+					occitan = "Burlata"
+					provencal = "Burlata"
+					basque = "Burlata"}
+				b_lizarra = {
+					aragonese = "Estella"
+					catalan = "Estella"
+					castilian = "Estella"
+					andalusian = "Estella"
+					occitan = "Estela"
+					provencal = "Estela"}
+				b_zizur_nagusia = {
+					aragonese = "Zizur Mayor"
+					castilian = "Zizur Mayor"
+					andalusian = "Zizur Mayor"}
+			}
+			c_alava = { # 217
+				color={ 94 206 69 }
+				color2={ 255 255 255 }
+				
+				asturleonese = "Araba"
+				basque = "Araba"
+				catalan = "Àlaba"
+				aragonese = "Alava"
+				occitan = "Alaba"
+				provencal = "Alaba"
+				parisian = "Alava"
+				
+				b_laudio = {
+					castilian = "Llodio"
+					andalusian = "Llodio"}
+				b_gasteiz = {
+					aragonese = "Vitoria"
+					catalan = "Vitòria"
+					castilian = "Vitoria"
+					andalusian = "Vitoria"
+					occitan = "Vitòria"
+					provencal = "Vitòria"}
+				b_amurrio = {}
+				b_agurain = {
+					aragonese = "Salvatierra"
+					castilian = "Salvatierra"
+					andalusian = "Salvatierra"}
+				b_oion = {
+					asturleonese = "Oyón"
+					aragonese = "Oyón"
+					catalan = "Oyón"
+					castilian = "Oyón"
+					andalusian = "Oyón"
+					occitan = "Oyón"
+					provencal = "Oyón"}
+				b_aiara = {
+					castilian = "Ayala"
+					andalusian = "Ayala"}
+				b_iruna_oka = {
+					aragonese = "Iruña de Oca"
+					castilian = "Iruña de Oca"
+					andalusian = "Iruña de Oca"}
+			}
+			c_biscay = { # 216
+				color={ 19 158 18 }
+				color2={ 255 255 255 }
+				
+				asturleonese = "Bizkaia"
+				andalusian = "Vizcaya"
+				castilian = "Vizcaya"
+				basque = "Bizkaia"
+				catalan = "Biscaia"
+				aragonese = "Vizcaya"
+				occitan = "Biscaia"
+				provencal = "Biscaia"
+				parisian = "Biscaye"
+				
+				b_butron = {
+					basque = "Butroeko gaztelua"}
+				b_bilbao = {
+					aragonese = "Bilbau"
+					basque = "Bilbo"
+					occitan = "Bilbau"
+					provencal = "Bilbau"}
+				b_san_sebastian = {
+					aragonese = "Sant Sabastián"
+					asturleonese = "Donostia"
+					catalan = "Sant Sebastià"
+					occitan = "Sent Sebastian"
+					provencal = "Sent Sebastian"
+					basque = "Burlata"}
+				b_barakaldo = {
+					castilian = "Baracaldo"
+					andalusian = "Baracaldo"}
+				b_getxo = {
+					castilian = "Guecho"
+					andalusian = "Guecho"}
+				b_irun = {
+					aragonese = "Irún"
+					castilian = "Irún"
+					andalusian = "Irún"}
+				b_portugalete = {}
+			}
+			c_la_rioja = { # 219
+				color={ 93 196 10 }
+				color2={ 255 255 255 }
+				
+				asturleonese = "La Rioxa"
+				basque = "Errioxa"
+				aragonese = "A Riocha"
+				
+				b_aguas_mansas = {}
+				b_logrono = {
+					aragonese = "Logronyo"
+					catalan = "Logronyo"
+					occitan = "Logronh"
+					provencal = "Logronh"}
+				b_calahorra = {
+					aragonese = "Calagorra"}
+				b_arnedo = {}
+				b_haro = {}
+				b_lardero = {}
+				b_najera = {
+					aragonese = "Nachera"
+					basque = "Naiara"}
+			}
+			c_labourd = { # 218
+				color={ 97 215 16 }
+				color2={ 255 255 255 }
+				
+				asturleonese = "Lapurdi"
+				basque = "Lapurdi"
+				catalan = "Lapurdi"
+				aragonese = "Labort"
+				occitan = "Labord"
+				provencal = "Labord"
+				castilian = "Labort"
+				andalusian = "Labort"
+				
+				b_anglet = {
+					basque = "Angelu"}
+				b_bayonne = {
+					aragonese = "Bayona"
+					catalan = "Baiona"
+					basque = "Baiona"
+					castilian = "Bayona"
+					andalusian = "Bayona"
+					occitan = "Baiona"
+					provencal = "Baiona"}
+				b_biarritz = {
+					basque = "Miarritze"
+					aragonese = "Biàrritz"
+					occitan = "Biàrritz"
+					provencal = "Biàrritz"}
+				b_hendaye = {
+					aragonese = "Hendaya"
+					catalan = "Hendaia"
+					castilian = "Hendaya"
+					andalusian = "Hendaya"
+					basque = "Hendaia"
+					occitan = "Hendaia"
+					provencal = "Hendaia"}
+				b_saint_jean_de_luz = {
+					aragonese = "Sant Chuan de Luz"
+					catalan = "Sant Joan Lohitzune"
+					castilian = "San Juan de Luz"
+					andalusian = "San Juan de Luz"
+					basque = "Donibane Lohizune"
+					occitan = "Sent Joan de Lus"
+					provencal = "Sent Joan de Lus"}
+				b_urrugne = {
+					aragonese = "Urruña"
+					catalan = "Urruña"
+					castilian = "Urruña"
+					andalusian = "Urruña"
+					basque = "Urruña"
+					occitan = "Urrunha"
+					provencal = "Urrunha"}
+				b_boucau = {
+					aragonese = "Lo Bocau"
+					catalan = "Lo Bocau"
+					basque = "Bokale"
+					occitan = "Lo Bocau"
+					provencal = "Lo Bocau"}
+			}
+		}
+	}
+	k_macronesia = {
+		color={ 253 158 51 }
+		color2={ 255 255 255 }
+		
+		dignity = 10 # One more county than de jure
+		
+		capital = 163 #Tenerife
+		
+		catholic = 500 # Santiago
+	
+		basque = "Makaronesia"
+		catalan = "Macaronèsia"
+		portuguese = "Macaronésia"
+		parisian = "Macaronésie"
+		
+		d_las_palmas = {
+			color={ 214 127 50 }
+			color2={ 255 255 255 }
+			
+			capital = 160 # Gran Canaria
+		
+			galician = "As Palmas"
+
+			c_gran_canaria = {
+				color={ 181 121 95 }
+				color2={ 255 255 255 }
+				
+				b_las_palmas = {}				
+				b_telde = {}
+				b_santa_lucia_de_tirajana = {}
+				b_san_bartolome_de_tirajana = {}
+				b_arucas = {}
+				b_ingenio = {}
+				b_galdar = {}
+			}
+			c_fuerteventura = {
+				color={ 170 103 63 }
+				color2={ 255 255 255 }
+				
+				b_puerto_del_rosario = {}
+				b_pajara = {}
+				b_la_oliva = {}
+				b_tuineje = {}
+				b_antigua = {}
+				b_betancuria = {}
+				b_lobos = {}
+			}
+			c_lanzarote = {
+				color={ 217 129 52 }
+				color2={ 255 255 255 }
+				
+				b_arrecife = {}
+				b_san_bartolome = {}
+				b_tias = {}
+				b_teguise = {}
+				b_yaiza = {}
+				b_tinajo = {}
+				b_haria = {}
+			}
+		}
+		d_santa_cruz_de_tenerife = {
+			color={ 207 135 87 }
+			color2={ 255 255 255 }
+		
+			capital = 163 #Tenerife
+	
+			c_tenerife = {
+				color={ 230 106 91 }
+				color2={ 255 255 255 }
+			
+				b_santa_cruz_de_tenerife = {}
+				b_san_cristobal_de_la_laguna = {}
+				b_arona = {}
+				b_la_orotava = {}
+				b_los_realejos = {}
+				b_puerto_de_la_cruz = {}
+				b_icod_de_los_vinos = {}
+			}
+			c_la_palma = {
+				color={ 220 107 76 }
+				color2={ 255 255 255 }
+			
+				b_los_llanos_de_aridane = {}
+				b_santa_cruz_de_la_palma = {}
+				b_el_pasa = {}
+				b_brena_alta = {}
+				b_san_andres_y_sauces = {}
+				b_tazacorte = {}
+				b_villa_de_Mazo = {}
+			}
+			c_la_gomera_y_hierro = {
+				color={ 242 155 32 }
+				color2={ 255 255 255 }
+			
+				b_san_sebastian_de_la_gomera = {}
+				b_valverde = {}
+				b_valle_gran_rey = {}
+				b_frontera = {}
+				b_vallehermoso = {}
+				b_hermigua = {}
+				b_alajero = {}
+			}
+		}
+		d_madeira = {
+			color={ 195 117 56 }
+			color2={ 255 255 255 }
+			
+			capital = 166 #c_madeira
+		
+			occitan = "Madèira"
+			provencal = "Madèira"
+		
+			c_madeira = {
+				color={ 200 194 85 }
+				color2={ 255 255 255 }
+			
+				b_funchal = {}
+				b_santa_cruz = {}
+				b_camara_de_lobos = {}
+				b_machico = {}
+				b_ribeira_brava = {}
+				b_calheta = {}
+				b_ponta_do_sol = {}
+			}
+		}
+		d_acores = {
+			color={ 207 135 87 }
+			color2={ 255 255 255 }
+		
+			capital = 1196 # Sao Miguel
+	
+			c_sao_miguel = {
+				color={ 210 152 74 }
+				color2={ 255 255 255 }
+			
+				b_ponta_delgada = {}
+				b_ribeira_grande = {}
+				b_lagoa = {}
+				b_vila_franca_do_campo = {}
+				b_povoacao = {}
+				b_vila_do_porto = {}
+				b_nordeste = {}
+			}
+			c_terceira = {
+				color={ 236 229 96 }
+				color2={ 255 255 255 }
+				
+				holy_site = quinto
+			
+				b_angra_do_heroismo = {}
+				b_praia_da_vitoria = {}
+				b_horta = {}
+				b_madalena = {}
+				b_velas = {}
+				b_santa_cruz_da_graciosa = {}
+				b_santa_cruz_da_flores = {}
+			}
+		}
+		d_cabo_verde = {
+			color={ 242 52 53 }
+			color2={ 255 255 255 }
+			
+			capital = 173 # Santiago
+		
+			c_sao_vicente = {
+				color={ 159 100 15 }
+				color2={ 255 255 255 }
+				
+				b_mindelo = {}
+				b_porto_novo = {}
+				b_ribeira_grande_2 = {}
+				b_caleijao = {}
+				b_cha_de_igreja = {}
+				b_juncalinho = {}
+				b_baia_das_gatas = {}
+			}
+			c_boa_vista = {
+				color={ 222 122 113 }
+				color2={ 255 255 255 }
+				
+				b_sal_rei = {}
+				b_rabil = {}
+				b_fundo_de_figueiras = {}
+				b_murdeira = {}
+				b_santa_maria_2 = {}
+				b_espargos = {}
+				b_pavoacao_velha = {}
+			}
+			c_santiago = {
+				color={ 185 52 56 }
+				color2={ 255 255 255 }
+				
+				b_praia = {}
+				b_tribuna = {}
+				b_sao_filipe = {}
+				b_tarrafal = {}
+				b_mosteiros = {}
+				b_ribao_manuel = {}
+				b_galinheiro = {}
+			}
+		}
+	}
+	k_portugal = {
+		color={ 45 79 153 }
+		color2={ 255 255 255 }
+		
+		dignity = 10 # One more county than de jure
+		
+		capital = 167 # Lisboa
+		
+		catholic = 3000 # Santiago
+		
+		d_lisboa = {
+			color={ 27 64 137 }
+			color2={ 255 255 255 }
+
+			capital = 167 # Lisboa
+		
+			basque = "Lisboa"
+			catalan = "Lisbona"
+			portuguese = "Lisboa"
+			occitan = "Lisbona"
+			provencal = "Lisbona"
+			castilian = "Lisboa"
+			andalusian = "Lisboa"
+			asturleonese = "Lisboa"
+			aragonese = "Lisbona"
+			galician = "Lisboa"
+		
+			c_lisboa = {
+				color={ 25 57 127 }
+				color2={ 255 255 255 }
+			
+				basque = "Lisboa"
+				catalan = "Lisbona"
+				portuguese = "Lisboa"
+				occitan = "Lisbona"
+				provencal = "Lisbona"
+				castilian = "Lisboa"
+				andalusian = "Lisboa"
+				asturleonese = "Lisboa"
+				aragonese = "Lisbona"
+				galician = "Lisboa"
+			
+				holy_site = quinto
+				holy_site = thelema
+				holy_site = modernist
+					
+				b_lisbon = {
+					basque = "Lisboa"
+					catalan = "Lisbona"
+					portuguese = "Lisboa"
+					occitan = "Lisbona"
+					provencal = "Lisbona"
+					castilian = "Lisboa"
+					andalusian = "Lisboa"
+					asturleonese = "Lisboa"
+					aragonese = "Lisbona"
+					galician = "Lisboa"
+				}
+				b_sintra = {}
+				b_cascais = {}
+				b_loures = {}
+				b_amadora = {}
+				b_oeiras = {}
+				b_odivelas = {}
+			}
+			c_peninsula_de_setubal = {
+				color={ 20 46 102 }
+				color2={ 255 255 255 }
+			
+				b_setubal = {}
+				b_almada = {}
+				b_seixal = {}
+				b_barreiro = {}
+				b_sesimbra = {}
+				b_moita = {}
+				b_montijo_2 = {}
+			}
+		}	
+		d_beja = {
+			color={ 49 109 140 }
+			color2={ 255 255 255 }
+			
+			capital = 169 # Beja
+			
+			c_beja = {
+				color={ 44 99 127 }
+				color2={ 255 255 255 }
+			
+				b_beja = {}
+				b_castro_verde = {}
+				b_serpa = {}
+				b_moura = {}
+				b_aljustrel = {}
+				b_almodovar = {}
+				b_ferreira = {}
+			}
+			c_alentejo_litoral = {
+				color={ 62 139 178 }
+				color2={ 255 255 255 }
+			
+				b_santiago_do_cacem = {}
+				b_odemira = {}
+				b_grandola = {}
+				b_sines = {}
+				b_alcacer_do_sal = {}
+				b_botinas = {}
+				b_cercal = {}
+			}
+			c_evora = {
+				color={ 35 79 102 }
+				color2={ 255 255 255 }
+			
+				b_evora = {}
+				b_montemor_o_novo = {}
+				b_estremoz = {}
+				b_vendas_novas = {}
+				b_reguengos_de_monsaraz = {}
+				b_vila_vicosa = {}
+				b_redondo = {}
+			}
+			c_santarem = {
+				color={ 71 159 204 }
+				color2={ 255 255 255 }
+				
+				holy_site = apparitionist
+				holy_site = penitant
+				holy_site = apostolic
+				holy_site = celeste
+			
+				b_santarem = {}
+				b_ourem = {}
+				b_tomar = {}
+				b_torres_novas = {}
+				b_abrantes = {}
+				b_benavente_2 = {}
+				b_entroncamento = {}
+#				b_portalegre = {}
+#				b_ponte_de_sor = {}
+#				b_elvas = {}
+#				b_nisa = {}
+#				b_campo_maior = {}
+#				b_sousel = {}
+#				b_gaviao = {}
+			}
+		}
+		d_algarve = {
+			color={ 22 67 112 }
+			color2={ 255 255 255 }
+			
+			capital = 175 # Algarve
+			
+			c_algarve = {
+				color={ 24 73 122 }
+				color2={ 255 255 255 }
+				
+				b_faro = {}
+				b_loule = {}
+				b_portimao = {}
+				b_olhao = {}
+				b_albufeira = {}
+				b_silves = {}
+				b_lagos = {}
+			}			
+		}
+		d_beira = {
+			color={ 40 40 102 }
+			color2={ 255 255 255 }
+			
+			capital = 179 # Coimbra
+			
+			c_leiria = {
+				color={ 51 51 127 }
+				color2={ 255 255 255 }
+			
+				holy_site = catholic
+			
+				b_torres_vedras = {}
+				b_leiria = {}
+				b_caldas_da_rainha = {}
+				b_pombal = {}
+				b_alcobaca = {}
+				b_marinha_grande = {}
+				b_peniche = {}
+			}
+			c_castelo_branco = {
+				color={ 30 30 76 }
+				color2={ 255 255 255 }
+			
+				b_castelo_branco = {}
+				b_covilha = {}
+				b_belmonte = {}
+				b_serta = {}
+				b_idanha_a_nova = {}
+				b_fundao = {}
+				b_proenca_a_nova = {}
+			}
+			c_coimbra = {
+				color={ 61 61 153 }
+				color2={ 255 255 255 }
+				
+				castilian = "Coímbra"
+				andalusian = "Coímbra"
+				galician = "Coímbra"
+			
+				b_coimbra = {}
+				b_figueira_da_foz = {}
+				b_cantanhed = {}
+				b_montemor_o_velho = {}
+				b_oliveira_do_hospital = {}
+				b_condeixa_a_nova = {}
+				b_lousa = {}
+			}
+			c_aveiro = {
+				color={ 20 20 51 }
+				color2={ 255 255 255 }
+			
+				b_santa_maria_da_feira = {}
+				b_aveiro = {}
+				b_viseu = {}
+				b_oliveira_de_azemeis = {}
+				b_ovar = {}
+				b_agueda = {}
+				b_ilhavo = {}
+			}
+			c_guarda = {
+				color={ 71 71 178 }
+				color2={ 255 255 255 }
+			
+				b_guarda = {}
+				b_gouveia = {}
+				b_seia = {}
+				b_sabugal = {}
+				b_trancoso = {}
+				b_vila_nova_de_foz_coa = {}
+				b_pinhel = {}
+			}
+		}	
+		d_norte = {
+			color={ 45 63 153 }
+			color2={ 255 255 255 }
+			
+			capital = 182 # Porto
+		
+			c_porto = {
+				color={ 38 53 127 }
+				color2={ 255 255 255 }
+				
+				castilian = "Oporto"
+				andalusian = "Oporto"
+			
+				holy_site = quinto
+					
+				b_porto = {}
+				b_vila_nova_de_gaia = {}
+				b_braga = {}	
+				b_vila_nova_de_famalicao = {}
+				b_valongo = {}
+				b_maia = {}
+				b_paredes = {}
+			}	
+			c_vila_real = {
+				color={ 53 74 178 }
+				color2={ 255 255 255 }
+			
+				b_vila_real = {}
+				b_chaves = {}
+				b_peso_da_regua = {}
+				b_valpacos = {}
+				b_vila_pouca_de_aguiar = {}
+				b_santa_marta_de_penaguiao = {}
+				b_alijo = {}
+			}
+			c_braganca = {
+				color={ 30 42 102 }
+				color2={ 255 255 255 }
+				
+				castilian = "Braganza"
+				andalusian = "Braganza"
+				galician = "Braganza"
+			
+				b_braganca = {
+					castilian = "Braganza"
+					andalusian = "Braganza"
+					galician = "Braganza"
+				}
+				b_macedo_de_cavaleiros = {}
+				b_mirandela = {}
+				b_mogadouro = {}
+				b_torre_de_moncorvo = {}
+				b_vinhais = {}
+				b_miranda_do_douro = {}
+			}
+		}
+	}
+}
+### Kingdoms ###
+
+k_asturias = {
+	color={ 23 101 233 }
+	color2 = { 255 255 255 }
+	
+	dignity = 10
+	
+	capital = 208 #Uvieu
+	
+	allow = {
+		culture = asturleonese
+		conditional_tooltip = {
+			trigger = {
+				k_asturias = {
+					is_titular = yes
+				}
+			}
+			k_asturias = {
+				is_titular = no
+			}
+		}
+	}
+}
