@@ -1,6 +1,8 @@
-# Brazilian Modernist Religion Submod
+<img width="1918" height="1079" alt="image" src="https://github.com/user-attachments/assets/27d3737a-2897-42cf-be30-595bd9293e3c" /># Brazilian Modernist Religion Submod
 
 A feature-rich submod for After-The-End: Eurasia that introduces the **Brazilian Modernist Religion** to Crusader Kings II, complete with distinct philosophical branches, cultural mechanics, and an invasive empire system.
+
+![Uploading image.png‚Ä¶]()
 
 ## Overview
 
@@ -55,7 +57,7 @@ This submod adds a new religion called **Modernism** originating from Brazil, ce
 ### 3. **Alternative Society** (Spiritual Journey)
 *"Through revelation comes understanding; through understanding comes transformation."*
 
-**Philosophy**: Centered on spiritual awakening and philosophical revelation through engagement with modernist thinkers including Raul Seixas, Paulo Coelho, Jo„o Guimar„es Rosa, M·rio de Andrade, and Clarice Lispector.
+**Philosophy**: Centered on spiritual awakening and philosophical revelation through engagement with modernist thinkers including Raul Seixas, Paulo Coelho, Jo√£o Guimar√£es Rosa, M√°rio de Andrade, and Clarice Lispector.
 
 **Mechanics**:
 - **Spiritual Journey Decision**: Undertake a philosophical journey to meet a modernist master (requires 100 piety + 50 wealth)
@@ -108,8 +110,8 @@ When a Brazilian Modernist character rises to sufficient power, they can trigger
 
 ## Transatlantic Bookmark
 
-**New Start Date Available**: Brazilian Outpost (modern era)
-
+**New Start Date Available**: Brazilian Outpost
+<img width="1918" height="1079" alt="image" src="https://github.com/user-attachments/assets/072d5145-a643-4934-8f62-30f1b1059251" />
 Start as a Brazilian explorer establishing a small foothold in foreign lands. Gradually expand your presence, convert the local population to Modernism, and eventually trigger the full Brazilian Invasion to bring your territory under the control of the Brazilian Empire.
 
 This bookmark offers a unique progression path from military outpost to continental conqueror.
@@ -181,4 +183,4 @@ This submod prioritizes:
 
 ---
 
-*"A cobra est· fumando..."*
+*"A cobra est√° fumando..."*
