@@ -1,4 +1,6 @@
-<img width="1918" height="1079" alt="image" src="https://github.com/user-attachments/assets/27d3737a-2897-42cf-be30-595bd9293e3c" /># Brazilian Modernist Religion Submod
+# Brazilian Modernist Religion Submod
+
+<img width="1194" height="844" alt="image" src="https://github.com/user-attachments/assets/4745acf5-3cf9-4852-9c05-9233862d9dcb" />
 
 A feature-rich submod for After-The-End: Eurasia that introduces the **Brazilian Modernist Religion** to Crusader Kings II, complete with distinct philosophical branches, cultural mechanics, and an invasive empire system.
 
