@@ -2,8 +2,6 @@
 
 A feature-rich submod for After-The-End: Eurasia that introduces the **Brazilian Modernist Religion** to Crusader Kings II, complete with distinct philosophical branches, cultural mechanics, and an invasive empire system.
 
-![Uploading image.png…]()
-
 ## Overview
 
 This submod adds a new religion called **Modernism** originating from Brazil, centered on 20th-century modernist philosophy and cultural movements. Players can adopt this religion and specialize in one of three unique branches, each offering radically different gameplay mechanics and strategic bonuses.
